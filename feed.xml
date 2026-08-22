@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Gujarat Samachar (unofficial feed)</title>
+    <link>https://YOUR-USERNAME.github.io/YOUR-REPO/feed.xml</link>
+    <description>Unofficial auto-generated feed scraped from gujaratsamachar.com</description>
+    <atom:link href="https://YOUR-USERNAME.github.io/YOUR-REPO/feed.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>gu</language>
+    <lastBuildDate>Sat, 22 Aug 2026 05:57:34 +0000</lastBuildDate>
+    <item>
+      <title>મોદી-RSS વચ્ચે વધતું અંતર! સંઘે 14 વર્ષે જ્ઞાન લાધ્યું, કહ્યું-'જેન-ઝીના દેખાવો સરકારની નિષ્ફળતાનું પરિણામ'</title>
+      <link>https://www.gujaratsamachar.com/news/national/gen-zees-protests-are-a-result-of-government-failure-says-rss-66862255108</link>
+      <guid isPermaLink="false">b4e55a2d29e4bc6da8e670585ad7b88c2b34cdee</guid>
+      <category>national</category>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Explainer: દેશમાં દરરોજ થતા કચરાના મહાકાય પહાડ સામે સુપ્રીમ કોર્ટની લાલ આંખ, જાણો આખરે આ કચરો જાય છે ક્યાં!</title>
+      <link>https://www.gujaratsamachar.com/news/national/India-Waste-Management-Crisis-Supreme-Court-Strict-Rules-for-Bulk-Generators-99273141240</link>
+      <guid isPermaLink="false">8e1a2b0e2cd5d6fe014ea7845aede89669a1de5f</guid>
+      <category>national</category>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>આવી ગયો કળિયુગનો અંત? રહસ્યમયી ગ્રંથ કાલજ્ઞાનમમાં આવનારી પ્રમુખ ભવિષ્યવાણીનો ઉલ્લેખ</title>
+      <link>https://www.gujaratsamachar.com/news/astro/Potuluri-Veerabrahmendra-Swami-Kalajnanam-Predictions-Future-Prophecies-and-Kalki-Avatar-72234372119</link>
+      <guid isPermaLink="false">99834c97837b668d5b8fbae310afbca7ff393a18</guid>
+      <category>astro</category>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>100 વર્ષનું સૌથી ભયંકર અલ-નીનો, વૈજ્ઞાનિકોએ કરી ખતરનાક ભવિષ્યવાણી, ભારત પર શું પડશે અસર?</title>
+      <link>https://www.gujaratsamachar.com/news/national/the-worst-el-nino-in-100-years-scientists-have-made-a-dangerous-prediction-what-will-be-the-impact-on-india-17116706493</link>
+      <guid isPermaLink="false">767f45e2f2c8766507b7869a9894a0eec8e7dc70</guid>
+      <category>national</category>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ભાવનગરમાં ઝેરી દારૂની 300 બોટલો વેચાઈ હતી, 70થી વધુને અસર, 200થી વધારે બોટલો કબજે લેવાયાનો દાવો</title>
+      <link>https://www.gujaratsamachar.com/news/bhavnagar/300-bottles-of-poisonous-liquor-sold-in-bhavnagar-more-than-70-affected-60292126003</link>
+      <guid isPermaLink="false">8c4023edf40cd1851386213fda744cc9a74eeecb</guid>
+      <category>bhavnagar</category>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ચીનનું ઘમંડ થશે ચકનાચૂર, ભારતીય મોબાઈલ કંપનીઓને મળશે સૌથી વધારે ઈન્સેટીવ, દેશી બ્રાન્ડનો દબદબો વધશે</title>
+      <link>https://www.gujaratsamachar.com/news/business/India-Mobile-Manufacturing-Scheme-MPMS-62500-Crore-Boost-for-Local-Brands-48394379668</link>
+      <guid isPermaLink="false">2f0b4d12b5300c27f88683163faecbd251aff4df</guid>
+      <category>business</category>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>અમરેલી: 'દારૂબંધીના કડક અમલની મજાક ઉડાવે છે પોટલીઓ', ભાજપના નેતાએ પત્ર લખી મુખ્યમંત્રીની આંખો ઉઘાડી</title>
+      <link>https://www.gujaratsamachar.com/news/amreli/amreli-potli-people-are-making-fun-of-strict-implementation-of-liquor-ban-bjp-leader-writes-a-letter-to-the-chief-minister-opening-his-eyes-11097998276</link>
+      <guid isPermaLink="false">0c007e84f43ada17ffd18b9168b66314d2c7564b</guid>
+      <category>amreli</category>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>એઆઈ બૂમથી અમીર બનેલી નવી પેઢીએ લક્ઝરીની વ્યાખ્યા બદલી</title>
+      <link>https://www.gujaratsamachar.com/news/international/a-new-generation-made-rich-by-the-ai-boom-has-changed-the-definition-of-luxury-25372055355</link>
+      <guid isPermaLink="false">059f8de0790ef9f0f52ea5f3cb87fc9e5cc44a89</guid>
+      <category>international</category>
+      <pubDate>Sat, 22 Aug 2026 05:57:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>આજનું રાશિ ભવિષ્ય: આ રાશિના જાતકો પર થશે લક્ષ્મીકૃપા, કોણે રહેવું પડશે વાહન ચલાવવામાં સાવધાન?</title>
+      <link>https://www.gujaratsamachar.com/news/astro/aajnu-rashi-bhavishya-daily-horoscope-astrology-predictions-38030541826</link>
+      <guid isPermaLink="false">ec692bc92bd3bfc360ae861517ff9ec417a1db11</guid>
+      <category>astro</category>
+      <pubDate>Sat, 22 Aug 2026 05:57:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>રણબીર આવતાં વર્ષે એપ્રિલથી બ્રહ્માસ્ત્ર ટુનું શૂટિંગ શરુ કરશે</title>
+      <link>https://www.gujaratsamachar.com/news/entertainment/ranbir-will-start-shooting-for-brahmastra-2-from-april-next-year-38668625151</link>
+      <guid isPermaLink="false">168e6d7945fff4fc94904814eb12e321cd673df0</guid>
+      <category>entertainment</category>
+      <pubDate>Sat, 22 Aug 2026 05:57:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>સિદ્ધાર્થ અને કિયારા પણ હવે પોતે ફિલ્મ નિર્માતા બનશે</title>
+      <link>https://www.gujaratsamachar.com/news/entertainment/siddharth-and-kiara-will-now-also-become-film-producers-themselves-16320640459</link>
+      <guid isPermaLink="false">aa2fbec89d7583506857e94574ab829e2bd1b0da</guid>
+      <category>entertainment</category>
+      <pubDate>Sat, 22 Aug 2026 05:57:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>યામી ગૌતમ, રાજકુમાર રાવ, રજનીકાન્ત બોક્સ ઓફિસ પર ટકરાશેે</title>
+      <link>https://www.gujaratsamachar.com/news/entertainment/yami-gautam-rajkummar-rao-rajinikanth-to-clash-at-the-box-office-80032651121</link>
+      <guid isPermaLink="false">4b907435f579f2f82541353ff94c7154ba23c3c0</guid>
+      <category>entertainment</category>
+      <pubDate>Sat, 22 Aug 2026 05:57:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>ભારતીયોએ તો ભારે કરી! એરપોર્ટ પર વ્હીલચેરની લાંબી લાઇનો લગાવી દીધી, સેવાના કથિત દુરુપયોગ અંગે ભારે ચર્ચા</title>
+      <link>https://www.gujaratsamachar.com/news/national/administration-even-in-wheelchairs-77149505007</link>
+      <guid isPermaLink="false">55ff2aa4b33ebc93ee914f2d8d7d7c706bf35540</guid>
+      <category>national</category>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>હવે Appleમાં પણ કર્મચારીઓ છટણીનો શિકાર, સોફ્ટવેર ટીમમાંથી 200 એન્જિનિયરને હાંકી કાઢ્યા</title>
+      <link>https://www.gujaratsamachar.com/news/business-plus/now-apple-is-also-facing-layoffs-200-engineers-were-fired-from-the-software-team-20146113267</link>
+      <guid isPermaLink="false">c17c2a2a4b3a204e2d61e137f18f4c964c88dffc</guid>
+      <category>business-plus</category>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>'તે જોવા માંગતા હતા કે હું કેટલી બોલ્ડ છું', કાસ્ટિંગ કાઉચનો ભોગ બનેલી અભિનેત્રીનો ખુલાસો</title>
+      <link>https://www.gujaratsamachar.com/news/entertainment/he-wanted-to-see-how-bold-i-was-reveals-actress-who-suffered-from-casting-couch-22885527529</link>
+      <guid isPermaLink="false">9f9502cd48be646b661d943abb87ac58bf9060fa</guid>
+      <category>entertainment</category>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ભદ્રા કે ગ્રહણ નહીં રક્ષાબંધન પર પંચકનો પડછાયો, રાખડી બાંધવાના બે સૌથી સારા શુભ મુહૂર્ત</title>
+      <link>https://www.gujaratsamachar.com/news/astro/neither-bhadra-nor-eclipse-casts-a-shadow-on-raksha-bandhan-the-two-most-auspicious-times-to-tie-rakhi-30140561577</link>
+      <guid isPermaLink="false">cd3da47f5e8400d0fd5ecd53b3f677eb133027e3</guid>
+      <category>astro</category>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Explainer: UPIના જમાનામાં પણ કેશનો ક્રેઝ: ભારત નોટો છાપવામાં અમેરિકાથી 3 ગણું અને યુરોપ કરતાં 6 ગણું આગળ</title>
+      <link>https://www.gujaratsamachar.com/news/business/explainer-cash-craze-even-in-the-era-of-upi-india-is-3-times-ahead-of-america-and-6-times-ahead-of-europe-in-printing-notes-71352109239</link>
+      <guid isPermaLink="false">5dde9d0b830a31b37a52c13033094cd2dcc8c56d</guid>
+      <category>business</category>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>બાંગ્લાદેશ સામે વિકેટ ચટકાવતા જ મિચેલ સ્ટાર્કના નામે થયો વર્લ્ડ રેકોર્ડ, કપિલ દેવ પણ ટોપ 5ની લિસ્ટમાં સામેલ</title>
+      <link>https://www.gujaratsamachar.com/news/sports/mitchell-starc-sets-world-record-after-taking-wicket-against-bangladesh-kapil-dev-also-included-in-top-5-list-59962775238</link>
+      <guid isPermaLink="false">6e0544ef96b07e485ae9173a3773197acfbf1456</guid>
+      <category>sports</category>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
