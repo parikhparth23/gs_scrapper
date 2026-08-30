@@ -8,28 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>gu</language>
-    <lastBuildDate>Sun, 30 Aug 2026 13:02:40 +0000</lastBuildDate>
-    <item>
-      <title>VIDEO: 7 વર્ષની બાળકીને મોતના મુખમાંથી ખેંચી લાવ્યો જાંબાઝ યુવક! દમણ બીચ પર લાઇફ ગાર્ડની સમયસૂચકતા</title>
-      <link>https://www.gujaratsamachar.com/news/diu-daman/video-brave-young-man-pulls-7-year-old-girl-from-the-brink-of-lifeguards-punctuality-on-daman-beach-79911216525</link>
-      <guid isPermaLink="false">7b82a54fb24bf72e288736021771ad44471b2b5b</guid>
-      <category>diu-daman</category>
-      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>હિંગની ભેળસેળ અને તેની હાનિકારક અસરો: ખરીદતા પહેલા આ બાબતો ધ્યાનમાં રાખો</title>
-      <link>https://www.gujaratsamachar.com/news/health/adulteration-of-asafoetida-and-its-harmful-effects-keep-these-things-in-mind-before-buying-14266497841</link>
-      <guid isPermaLink="false">93489db6e19d00f3eaa29855d0852c2541679443</guid>
-      <category>health</category>
-      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>આંખો સામે સ્કૂલ તણાઈ ગઈ પણ 1643 બાળકો બચી ગયા: નેપાળ પૂરના હીરો પ્રિન્સિપાલ રાજેન્દ્ર દવાડીની કહાણી</title>
-      <link>https://www.gujaratsamachar.com/news/international/the-school-collapsed-before-our-eyes-but-1643-children-survived-the-story-of-nepal-flood-hero-principal-rajendra-dawadi-86470952449</link>
-      <guid isPermaLink="false">7b51edccaeb838f5f56d09b68c7172ca56cf6a88</guid>
-      <category>international</category>
-      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 30 Aug 2026 13:32:43 +0000</lastBuildDate>
     <item>
       <title>નેપાળ પૂરમાં સાડી બની 'જીવનદોરી'! તમિલનાડુના 21 યાત્રીઓનો કાદવ-પથ્થરો વચ્ચેથી ચમત્કારિક બચાવ</title>
       <link>https://www.gujaratsamachar.com/news/national/sarees-become-lifelines-in-nepal-floods-miraculous-rescue-of-21-tamil-nadu-pilgrims-from-mud-and-rocks-57782823821</link>
@@ -90,6 +69,27 @@
       <title>મુસ્લિમ દેશો ‘અસલી દુશ્મન’ને ઓળખી એક થાય, ઈરાનના સુપ્રીમ લીડર મુજ્તબા ખામેનેઈનું મોટું નિવેદન</title>
       <link>https://www.gujaratsamachar.com/news/international/muslim-countries-should-unite-to-recognize-the-real-enemy-irans-supreme-leader-mojtaba-khamenei-makes-a-big-statement-48471312370</link>
       <guid isPermaLink="false">151299c291735849040462f4d0cbd8d9094545b1</guid>
+      <category>international</category>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>છોટા ઉદેપુર: નસવાડીના કાંધા ગામ પાસે ચોમાસામાં પુલની કામગીરી સામે રોષ, યોગ્ય ડાયવર્ઝનના અભાવે 30થી વધુ ગામોના લોકોને હાલાકી</title>
+      <link>https://www.gujaratsamachar.com/news/chhota-udaipur/naswadi-kandha-bridge-work-lack-of-diversion-affects-30-villages-farmers-in-chhota-udepur-38462917833</link>
+      <guid isPermaLink="false">c5e33c6a16938732a9dadef6693587623fc1e5fa</guid>
+      <category>chhota-udaipur</category>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>લખનઉમાં હિન્દુવાદી નેતા ધીરેન્દ્ર પ્રતાપ સિંહની ગોળી મારી હત્યા, નહેરમાંથી મળ્યો મૃતદેહ</title>
+      <link>https://www.gujaratsamachar.com/news/national/leader-dhirendra-pratap-singh-shot-dead-in-lucknow-body-thrown-into-canal-from-fortuner-97780159502</link>
+      <guid isPermaLink="false">d68eaf381213ca261b09b6966a4ac7b82546bd6d</guid>
+      <category>national</category>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ક્રૂડની નિકાસ કરતાં રશિયાએ ભારત પાસેથી 10 લાખ બેરલ પેટ્રોલ લેવું પડ્યું! જાણો કારણ</title>
+      <link>https://www.gujaratsamachar.com/news/international/russia-had-to-buy-1-million-barrels-of-petrol-from-india-while-exporting-crude-oil-know-the-reason-13715779362</link>
+      <guid isPermaLink="false">646566e8315b0a22790489bdcb5814b81322bf52</guid>
       <category>international</category>
       <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
     </item>
