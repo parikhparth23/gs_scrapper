@@ -8,28 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>gu</language>
-    <lastBuildDate>Wed, 02 Sep 2026 03:04:08 +0000</lastBuildDate>
-    <item>
-      <title>કોમનવેલ્થ ગેમ્સને કારણે અમદાવાદની કરાશે કાયાપલટ, 3,636 કરોડ રૂપિયાના કામોની કવાયત</title>
-      <link>https://www.gujaratsamachar.com/news/ahmedabad/infrastructure-upgrade-3636-crore-development-plan-95031246427</link>
-      <guid isPermaLink="false">90ccf3d5b3e4cda03ab8cf210a38a04d9f54e305</guid>
-      <category>ahmedabad</category>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>પદયાત્રીઓ માટે અતિક્રમણ મુક્ત ફૂટપાથની માગ સાથે હાઈકોર્ટમાં PIL, નાગરિકોના ચાલવાના અધિકાર પર ભાર મુકાયો</title>
-      <link>https://www.gujaratsamachar.com/news/ahmedabad/footpath-encroachment-pil-gujarat-high-court-right-to-walk-28699547738</link>
-      <guid isPermaLink="false">d7e81d5f161fab96797ea5705c776818e9868483</guid>
-      <category>ahmedabad</category>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>અમેરિકાએ ઈરાન પર ફરી વરસાવ્યા બોમ્બ, IRGCના ઠેકાણા કર્યા તબાહ</title>
-      <link>https://www.gujaratsamachar.com/news/international/america-rains-bombs-on-iran-again-destroys-irgc-bases-89089969483</link>
-      <guid isPermaLink="false">be1ed90fcf821eaa7fc74298a8fc2d1f436b5797</guid>
-      <category>international</category>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 02 Sep 2026 03:36:12 +0000</lastBuildDate>
     <item>
       <title>ચાંદીની કિંમતમાં રૂ.6900ની તો સોનામાં રૂ.3300ની ઉથલ-પાથલ, જાણો લેટેસ્ટ ભાવ</title>
       <link>https://www.gujaratsamachar.com/news/business/silver-price-fluctuates-by-rs-6900-and-gold-by-rs-3300-know-the-latest-price-39661616173</link>
@@ -90,6 +69,27 @@
       <title>અમેરિકાના પ્રચંડ હુમલા બાદ ઈરાને કુવૈત, બહેરીન અને જોર્ડન સુધી મિસાઈલ-ડ્રોન વરસાવ્યા</title>
       <link>https://www.gujaratsamachar.com/news/international/us-iran-conflict-irgc-attacked-iran-fires-missiles-kuwait-bahrain-jordan-28532234967</link>
       <guid isPermaLink="false">15408ef1a590413b330894dd5c5076bb621b1b79</guid>
+      <category>international</category>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>75 વર્ષ પહેલા પણ સંસદમાં ખાંડનો હિસાબ મંડાયો' તો! સરકાર બધી સરખી, જવાબ તો આપવા જ પડ્યા હતા</title>
+      <link>https://www.gujaratsamachar.com/news/ahmedabad/even-75-years-ago-the-sugar-bill-was-settled-in-parliament-all-governments-are-the-same-they-had-to-give-an-answer-88593641814</link>
+      <guid isPermaLink="false">d38d7730a02c7da91d7ecee277244455e63e2c15</guid>
+      <category>ahmedabad</category>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>નેપાળમાં પૂર હોનારતના 8 દિવસ બાદ પણ મૃતદેહો મળી રહ્યા છે, કુલ મૃતકાંક 1093ને પાર</title>
+      <link>https://www.gujaratsamachar.com/news/international/nepal-floods-toll-crosses-1090-thousands-missing-rescue-operation-23089311726</link>
+      <guid isPermaLink="false">c359faaf61a33106a9e0074f035b12df2781acea</guid>
+      <category>international</category>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>'હોર્મુઝ પર અમારો કબજો...' ટ્રમ્પના એક નિવેદનથી ક્રૂડ ઓઈલની કિંમતો ઉછળી 96 ડૉલરને પાર</title>
+      <link>https://www.gujaratsamachar.com/news/international/we-control-hormuz-trumps-statement-sent-crude-oil-prices-soaring-above-dollar96-52900703432</link>
+      <guid isPermaLink="false">9b02f1f4eefc876c63c408eb8e1edfa9d2f0c08a</guid>
       <category>international</category>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
     </item>
