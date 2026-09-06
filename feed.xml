@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>gu</language>
-    <lastBuildDate>Sun, 06 Sep 2026 03:04:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 03:36:10 +0000</lastBuildDate>
     <item>
       <title>4 વર્ષના યુદ્ધનો અંત આવશે? પુતિનને મનાવવા મોસ્કો પહોંચ્યા ડોનાલ્ડ ટ્રમ્પના બે દૂત, બેઠક પર સમગ્ર વિશ્વની નજર</title>
       <link>https://www.gujaratsamachar.com/news/international/trump-envoys-steve-witkoff-jared-kushner-arrive-moscow-russia-ukraine-peace-talks-46124163484</link>
@@ -52,7 +52,7 @@
       <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>'ક્રૂડ ભંડારી' ઇરાનમાં તળિયું દેખાયું બે મહિના ચાલે તેટલું જ પેટ્રોલ</title>
+      <title>'ક્રૂડ ભંડારી' ઇરાનમાં તળિયું દેખાયું, બે મહિના ચાલે તેટલું જ પેટ્રોલ</title>
       <link>https://www.gujaratsamachar.com/news/international/crude-reserves-bottom-seen-in-iran-only-enough-petrol-to-last-two-months-98639180890</link>
       <guid isPermaLink="false">bd4273403bba603e5af8232d288c789379fc20d4</guid>
       <category>international</category>
@@ -66,23 +66,9 @@
       <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>કોંગ્રેસ સંગઠનમાં ફેરબદલ: પંજાબમાં બઘેલના સ્થાને સચિન પાઇલટને તક, ગુજરાતમાં સુરજેવાલાને જવાબદારી</title>
-      <link>https://www.gujaratsamachar.com/news/national/congress-makes-changes-in-organization-sachin-pilot-gets-opportunity-to-replace-baghel-in-punjab-while-many-others-have-changed-responsibilities-83828954967</link>
-      <guid isPermaLink="false">ee0276bdfdbdae7de086e5c1d4e8ace9876fb02f</guid>
-      <category>national</category>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>ઝારખંડ સરકારને મોટો ઝટકો, CM હેમંતના ખાસ મંત્રી સુદિવ્ય કુમારનું હાર્ટ એટેક આવતા નિધન</title>
       <link>https://www.gujaratsamachar.com/news/national/big-blow-to-jharkhand-government-cm-hemants-special-minister-sudivya-kumar-dies-of-heart-attack-32873497346</link>
       <guid isPermaLink="false">41710b0e120e9c707bb4e3997644b7f64c13408c</guid>
-      <category>national</category>
-      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>દેશની 8 હાઇકોર્ટમાં ચીફ જસ્ટિસ બદલાયા, કેન્દ્ર સરકારે નોટિફિકેશન જાહેર કરી</title>
-      <link>https://www.gujaratsamachar.com/news/national/chief-justices-changed-in-8-high-courts-of-the-country-including-gujarat-central-government-issued-notification-46500743578</link>
-      <guid isPermaLink="false">8be17882237cae7d87dd1b9ae5f43ff59a6ace8d</guid>
       <category>national</category>
       <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
     </item>
@@ -91,6 +77,20 @@
       <link>https://www.gujaratsamachar.com/news/international/plane-suddenly-crashes-while-performing-stunts-at-air-show-plane-crashes-in-greece-in-front-of-spectators-two-pilots-die-56130736509</link>
       <guid isPermaLink="false">0f31cf745ad38f7e39763d79472b8b1139e23ff7</guid>
       <category>international</category>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>કોંગ્રેસ સંગઠનમાં ફેરબદલ: પંજાબમાં બઘેલના સ્થાને સચિન પાઇલટને તક, ગુજરાતમાં સુરજેવાલાને જવાબદારી</title>
+      <link>https://www.gujaratsamachar.com/news/national/congress-makes-changes-in-organization-sachin-pilot-gets-opportunity-to-replace-baghel-in-punjab-while-many-others-have-changed-responsibilities-83828954967</link>
+      <guid isPermaLink="false">ee0276bdfdbdae7de086e5c1d4e8ace9876fb02f</guid>
+      <category>national</category>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>દેશની 8 હાઇકોર્ટમાં ચીફ જસ્ટિસ બદલાયા, કેન્દ્ર સરકારે નોટિફિકેશન જાહેર કરી</title>
+      <link>https://www.gujaratsamachar.com/news/national/chief-justices-changed-in-8-high-courts-of-the-country-including-gujarat-central-government-issued-notification-46500743578</link>
+      <guid isPermaLink="false">8be17882237cae7d87dd1b9ae5f43ff59a6ace8d</guid>
+      <category>national</category>
       <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
