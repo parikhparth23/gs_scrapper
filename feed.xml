@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>gu</language>
-    <lastBuildDate>Sun, 06 Sep 2026 06:05:17 +0000</lastBuildDate>
-    <item>
-      <title>દેશની 8 હાઇકોર્ટમાં ચીફ જસ્ટિસ બદલાયા, કેન્દ્ર સરકારે નોટિફિકેશન જાહેર કરી</title>
-      <link>https://www.gujaratsamachar.com/news/national/chief-justices-changed-in-8-high-courts-of-the-country-including-gujarat-central-government-issued-notification-46500743578</link>
-      <guid isPermaLink="false">8be17882237cae7d87dd1b9ae5f43ff59a6ace8d</guid>
-      <category>national</category>
-      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apk ફાઈલ ડાઉનલોડ ના કરશો, અમદાવાદના વૃદ્ધનું ફોન હેક કરી જીવનભરની બચત લૂંટી લેવાઈ!</title>
-      <link>https://www.gujaratsamachar.com/news/ahmedabad/do-not-download-the-apk-file-the-phone-of-an-old-man-from-ahmedabad-was-hacked-and-his-lifetime-earnings-were-stolen-53352315966</link>
-      <guid isPermaLink="false">bd4c1da002dd9bd1803830e00aca1943e6d7082e</guid>
-      <category>ahmedabad</category>
-      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 06 Sep 2026 06:39:03 +0000</lastBuildDate>
     <item>
       <title>ઈરાન યુદ્ધની સિક્રેટ માહિતી લીક થતાં ટ્રમ્પ લાલઘૂમ, પેન્ટાગોનના અધિકારીઓના ‘લાઈ ડિટેક્ટર’ ટેસ્ટ કર્યા</title>
       <link>https://www.gujaratsamachar.com/news/international/trump-fumed-over-leaked-iran-war-secrets-took-lie-detector-tests-of-pentagon-officials-13297861579</link>
@@ -80,17 +66,31 @@
       <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>ઘરેલુ બજારમાં ચાંદી 5 દિવસમાં 8000 રૂપિયા તૂટી, સોનું પણ ગગડ્યું, જાણો લેટેસ્ટ રેટ</title>
-      <link>https://www.gujaratsamachar.com/news/business/silver-in-the-domestic-market-fell-by-rs-8000-in-5-days-gold-also-fell-know-the-latest-rate-26447695915</link>
-      <guid isPermaLink="false">c2a21da2e6d774b11f04defcf0aafc815f2ead69</guid>
-      <category>business</category>
-      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>PCB એ પાકિસ્તાની ખેલાડીઓના મોબાઈલ જપ્ત કરતા હડકંપ, શું કોઈ ફિક્સિંગનો મામલો છે?</title>
       <link>https://www.gujaratsamachar.com/news/sports/pcb-confiscates-pakistani-players-mobile-phones-is-there-any-fixing-issue-46332930578</link>
       <guid isPermaLink="false">f9c8c2ff5bc9c8901f1b6116af3a52211bb23397</guid>
       <category>sports</category>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>જન્માષ્ટમીની રાતે મંદિરે જતી સગીરાનું અપહરણ કરી દુષ્કર્મ આચરાયું, મુજ્ફ્ફરનગરમાં શરમજનક ઘટના</title>
+      <link>https://www.gujaratsamachar.com/news/national/a-minor-girl-was-kidnapped-and-raped-while-going-to-the-temple-on-the-night-of-janmashtami-a-shameful-incident-in-muzaffarnagar-77054292237</link>
+      <guid isPermaLink="false">c80dc8b12dd8de7ece3e16f942eb8435090fa00d</guid>
+      <category>national</category>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2 કરોડનું બજેટ ને કમાણી રૂ.100 કરોડને પાર! 'હનુમાન અંશ'ના ડાયરેક્ટરે ફી ન લીધી, રાખ્યા આ કઠિન નિયમ</title>
+      <link>https://www.gujaratsamachar.com/news/entertainment/hanuman-ansh-box-office-collection-100-crore-vishal-chaturvedi-48147204480</link>
+      <guid isPermaLink="false">2bc8287e618b2c763f282bd1c8572fc8e93a7283</guid>
+      <category>entertainment</category>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ઘરેલુ બજારમાં ચાંદી 5 દિવસમાં 8000 રૂપિયા તૂટી, સોનું પણ ગગડ્યું, જાણો લેટેસ્ટ રેટ</title>
+      <link>https://www.gujaratsamachar.com/news/business/silver-in-the-domestic-market-fell-by-rs-8000-in-5-days-gold-also-fell-know-the-latest-rate-26447695915</link>
+      <guid isPermaLink="false">c2a21da2e6d774b11f04defcf0aafc815f2ead69</guid>
+      <category>business</category>
       <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
