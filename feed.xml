@@ -8,35 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>gu</language>
-    <lastBuildDate>Tue, 08 Sep 2026 03:38:25 +0000</lastBuildDate>
-    <item>
-      <title>કુદરતી આફતમાં મળેલું સોનું-ચાંદી વેચ્યું તો ખેર નહીં, નેપાળ પોલીસે નાગરિકોને આપી કડક ચેતવણી</title>
-      <link>https://www.gujaratsamachar.com/news/international/selling-gold-and-silver-found-in-natural-disasters-is-not-a-good-idea-nepal-police-has-issued-a-stern-warning-to-citizens-97942780648</link>
-      <guid isPermaLink="false">5bda3a7cc535e9960b94cb63830e39ee5a6eeda4</guid>
-      <category>international</category>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>અમદાવાદમાં ફૂડ વિભાગે જાણીતા 3 એકમ કર્યા સીલ, 2,570 કિલો ખાદ્ય જથ્થો અટકાવ્યો</title>
-      <link>https://www.gujaratsamachar.com/news/ahmedabad/food-department-seals-3-known-units-in-ahmedabad-intercepts-2570-kg-of-food-64332121895</link>
-      <guid isPermaLink="false">ec1ceb851c1fbfafdd0bcb9c11173c2fe38a7c82</guid>
-      <category>ahmedabad</category>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>કચ્છ: પ્રેમસંબંધ ખુલ્લો પડવાના ડરે પ્રેમીએ પ્રેમિકાના પતિના ટુકડા કરી કોથળામાં ભર્યા, હત્યાનો ઘાતકી ઘટનાક્રમ</title>
-      <link>https://www.gujaratsamachar.com/news/kutch/anjar-lakhkhu-humbal-kill-case-wife-lover-dinesh-thakor-arrested-89656885281</link>
-      <guid isPermaLink="false">a68b3a997aa276e6b52fdf43059b321386d35de4</guid>
-      <category>kutch</category>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ભારતીય ક્રિકેટ માટે 3 ઓક્ટોબર બનશે ઐતિહાસિક, એક જ દિવસે 2 દેશો સામે રમાશે ટીમ ઇન્ડિયાની મેચ</title>
-      <link>https://www.gujaratsamachar.com/news/international/october-3-will-be-historic-for-indian-cricket-team-india-will-play-matches-against-2-countries-on-the-same-day-99177690354</link>
-      <guid isPermaLink="false">10d7e3ab07ddec578980d0e4576c05790e2f83f4</guid>
-      <category>international</category>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 08 Sep 2026 04:04:29 +0000</lastBuildDate>
     <item>
       <title>LPG સિલિન્ડરના રિફિલ બુકિંગની મુદતમાં મોટો ઘટાડો, 45 દિવસવાળી ઝંઝટ ખતમ</title>
       <link>https://www.gujaratsamachar.com/news/national/huge-reduction-in-lpg-cylinder-refill-booking-period-45-day-hassle-ends-91127196461</link>
@@ -80,10 +52,24 @@
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>જીડીપી વધારાની વાતો વચ્ચે સોનું ગિરવે મૂકી ઘર ચલાવવાની નોબત: ભારતમાં ગોલ્ડ લોનમાં રેકોર્ડબ્રેક ઉછાળો</title>
-      <link>https://www.gujaratsamachar.com/news/business/indians-pledge-gold-worth-9-lakh-crore-rbi-report-household-debt-95458439826</link>
-      <guid isPermaLink="false">479d1a67f6c66bbfc9f96133e3f1fc6026727303</guid>
-      <category>business</category>
+      <title>અમદાવાદના માણેકચોકમાં ગેરકાયદે 150થી વધુ સોના-ચાંદીની ભઠ્ઠીઓ સક્રિય, મોટી હોનારતનું જોખમ</title>
+      <link>https://www.gujaratsamachar.com/news/ahmedabad/more-than-150-illegal-gold-and-silver-furnaces-active-in-ahmedabads-manekchowk-risk-of-major-disaster-37139044430</link>
+      <guid isPermaLink="false">14a27859b8d2732f2649c9c9109fce617056e663</guid>
+      <category>ahmedabad</category>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ગીર સોમનાથ પંથકમાં જળસંકટના એંધાણ: 24 વર્ષમાં ત્રીજીવાર હિરણ-2 ડેમ ખાલી, ઉદ્યોગોમાં 50% કાપ</title>
+      <link>https://www.gujaratsamachar.com/news/gir-somnath/water-crisis-looms-in-somnath-panthak-hiran-2-dam-empty-for-the-third-time-in-24-years-50percent-cut-in-industries-64123245918</link>
+      <guid isPermaLink="false">fbd61d4c5dc80452ffd9bc2998601190de8012d0</guid>
+      <category>gir-somnath</category>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ખુરશી કે પલંગ પર બેસીને પગ કેમ ન હલાવવા જોઈએ? જાણો વડીલો આવું કરતાં કેમ અટકાવે છે</title>
+      <link>https://www.gujaratsamachar.com/news/astro/Why-Leg-Shaking-is-Unlucky-Astrology-Vastu-Financial-Risks-32485597485</link>
+      <guid isPermaLink="false">27214cbaadbb67f6b8b991e720875d71ed1599b6</guid>
+      <category>astro</category>
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -91,6 +77,20 @@
       <link>https://www.gujaratsamachar.com/news/international/eiffel-tower-shuts-staff-protest-gender-discrimination-baps-visit-36259544511</link>
       <guid isPermaLink="false">669e6f2c36146c6d16a6d3e92c35962ec96d57c4</guid>
       <category>international</category>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>જીડીપી વધારાની વાતો વચ્ચે સોનું ગિરવે મૂકી ઘર ચલાવવાની નોબત: ભારતમાં ગોલ્ડ લોનમાં રેકોર્ડબ્રેક ઉછાળો</title>
+      <link>https://www.gujaratsamachar.com/news/business/indians-pledge-gold-worth-9-lakh-crore-rbi-report-household-debt-95458439826</link>
+      <guid isPermaLink="false">479d1a67f6c66bbfc9f96133e3f1fc6026727303</guid>
+      <category>business</category>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ગુજરાતમાં પ્રેમલગ્ન નોંધણી વિવાદ ફરી સળગ્યો, સરકારે પાટીદારો-અન્ય સમાજને કોણીએ ગોળ ચોંટાડ્યો</title>
+      <link>https://www.gujaratsamachar.com/news/ahmedabad/love-marriage-registration-controversy-flares-up-again-in-gujarat-government-elbows-patidars-and-other-communities-30538413229</link>
+      <guid isPermaLink="false">88b5b668b4ef9820bd6bd2dd348510f2894b0918</guid>
+      <category>ahmedabad</category>
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
