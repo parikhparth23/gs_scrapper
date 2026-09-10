@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>gu</language>
-    <lastBuildDate>Thu, 10 Sep 2026 16:04:39 +0000</lastBuildDate>
-    <item>
-      <title>'આ બાળકોના આરોગ્યનો મુદ્દો છે', પેકેજ્ડ ફૂડ પર વોર્નિંગ લેબલ લગાવવા સુપ્રીમ કોર્ટ આપશે ઐતિહાસિક આદેશ</title>
-      <link>https://www.gujaratsamachar.com/news/national/this-is-a-childrens-health-issue-supreme-court-to-give-historic-order-to-put-warning-labels-on-packaged-food-26533454567</link>
-      <guid isPermaLink="false">d1a8aba0bc94042c90d26ecda79a51bf5f3e19f2</guid>
-      <category>national</category>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>અમદાવાદ: ધોળકા APMCમાં ભાજપના ગઢમાં ભવ્ય ગાબડું, 30 વર્ષ જૂના દબદબાનો અંત, કિસાન વિકાસ પેનલનો ક્લીન સ્વીપ</title>
-      <link>https://www.gujaratsamachar.com/news/ahmedabad/dholka-apmc-election-result-kisan-vikas-panel-clean-sweep-bjp-loss-39008479921</link>
-      <guid isPermaLink="false">0c64f042035d463f77813271e217a1d65e533028</guid>
-      <category>ahmedabad</category>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 10 Sep 2026 16:36:08 +0000</lastBuildDate>
     <item>
       <title>Explainer: શું તમે પણ તમારી પ્રોપર્ટીમાં PG શરૂ કરવાનું વિચારો છો? જાણો તમામ કાયદા અને શરતો</title>
       <link>https://www.gujaratsamachar.com/news/national/explainer-are-you-also-thinking-of-starting-a-pg-in-your-property-know-all-the-laws-and-conditions-87702033390</link>
@@ -73,13 +59,6 @@
       <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Explainer: વૈવાહિક બળાત્કાર ગુનો કે અપવાદ? જાણો ‘મેરિટલ રેપ’ અંગે સુપ્રીમ કોર્ટ અને સરકારનો મત</title>
-      <link>https://www.gujaratsamachar.com/news/national/explainer-is-marital-a-crime-or-an-exception-know-the-supreme-court-and-the-governments-view-on-marital-25725126396</link>
-      <guid isPermaLink="false">49915da9555d03f0e25c137f74f5c72a55965f6a</guid>
-      <category>national</category>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>BRICS સંમેલન: ભારત-અફઘાનિસ્તાન વચ્ચે 13 સપ્ટેમ્બરે મેચ રમાશે કે નહીં?  DDCAએ કરી મોટી સ્પષ્ટતા</title>
       <link>https://www.gujaratsamachar.com/news/sports/brics-summit-will-the-india-afghanistan-match-be-played-on-september-13-or-not-ddca-makes-a-big-clarification-20007413362</link>
       <guid isPermaLink="false">269fbd07c7d76089f497f8b4f4013523f108755d</guid>
@@ -90,6 +69,27 @@
       <title>મહારાષ્ટ્ર : નાંદેડમાં ભયાનક અકસ્માત, ટ્રકની ટક્કરથી પેસેન્જર વાન ફંગોળાઈ, 9નાં મોત</title>
       <link>https://www.gujaratsamachar.com/news/national/major-road-in-nanded-maharashtra-speeding-truck-collides-with-tata-magic-9-killed-37061952320</link>
       <guid isPermaLink="false">3b9c23777a58b273101e7467950a0d278809733f</guid>
+      <category>national</category>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>BREAKING: હથિયાર છીનવવાની કોશિશ કરતાં સુરત ક્રાઈમ બ્રાન્ચે કુખ્યાત આરોપી બારકુ પાટીલને પગમાં મારી ગોળી</title>
+      <link>https://www.gujaratsamachar.com/news/surat/breaking-surat-crime-branch-shoots-notorious-accused-barku-patil-in-the-leg-while-trying-to-snatch-his-weapon-75959752403</link>
+      <guid isPermaLink="false">dad4f0ad7f4573997b3a91af3111ec2cd93420aa</guid>
+      <category>surat</category>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>VIDEO : ચીનના શિપયાર્ડમાં ભયાનક આગ, કાર્ગો શિપમાં સવાર 25 લોકો જીવતા ભૂંજાયા</title>
+      <link>https://www.gujaratsamachar.com/news/international/video-horrific-fire-in-chinese-shipyard-25-people-on-board-cargo-ship-burned-alive-79503417576</link>
+      <guid isPermaLink="false">1a3eb7b73fe43dcfc06a12b81917afca5ae94310</guid>
+      <category>international</category>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Explainer: વૈવાહિક બળાત્કાર ગુનો કે અપવાદ? જાણો ‘મેરિટલ રેપ’ અંગે સુપ્રીમ કોર્ટ અને સરકારનો મત</title>
+      <link>https://www.gujaratsamachar.com/news/national/explainer-is-marital-a-crime-or-an-exception-know-the-supreme-court-and-the-governments-view-on-marital-25725126396</link>
+      <guid isPermaLink="false">49915da9555d03f0e25c137f74f5c72a55965f6a</guid>
       <category>national</category>
       <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
     </item>
