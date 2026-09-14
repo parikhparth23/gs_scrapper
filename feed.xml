@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>gu</language>
-    <lastBuildDate>Mon, 14 Sep 2026 05:04:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 05:36:44 +0000</lastBuildDate>
     <item>
       <title>આશ્ચર્ય : વડાપ્રધાન મોદીના ભોજન સમારંભમાં શી-જિનપિંગ હાજર ન રહ્યા</title>
       <link>https://www.gujaratsamachar.com/news/national/surprise-xi-jinping-not-present-at-pm-modis-dinner-11596799910</link>
@@ -28,13 +28,6 @@
       <link>https://www.gujaratsamachar.com/news/sports/pakistans-naqvi-was-deeply-embarrassed-despite-winning-the-asia-cup-team-india-again-did-not-accept-the-trophy-13244838946</link>
       <guid isPermaLink="false">8cf3bec9d0e68c14f6484b98e29d7c182a0dc65c</guid>
       <category>sports</category>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>અમદાવાદ સહિત 18 જિલ્લામાં ભારે વરસાદનું ઓરેન્જ એલર્ટ જાહેર, હવામાન વિભાગની લેટેસ્ટ આગાહી</title>
-      <link>https://www.gujaratsamachar.com/news/ahmedabad/orange-alert-issued-for-heavy-rain-in-18-districts-including-ahmedabad-latest-forecast-from-meteorological-department-11885927231</link>
-      <guid isPermaLink="false">fa7bcb4f14deaedc2d5e2ae938c52476df532fc4</guid>
-      <category>ahmedabad</category>
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -87,7 +80,14 @@
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>અમદાવાદમાં વહેલી સવારથી ધોધમાર વરસાદ, 24 કલાકમાં હંસપુરા અને મોટેરામાં અઢી ઈંચથી વધુ ખાબકતા ચારેકોર પાણી-પાણી</title>
+      <title>ગુજરાત માટે આગામી ત્રણ કલાક ભારે.... 19 જિલ્લામાં અતિ ભારે વરસાદનું રેડ એલર્ટ</title>
+      <link>https://www.gujaratsamachar.com/news/gujarat/heavy-rains-for-the-next-three-hours-for-gujarat-red-alert-of-extremely-heavy-rains-in-19-districts-37134379091</link>
+      <guid isPermaLink="false">9a18cbf0b64ebd1c92dd77a0f8a0ea35cfc8137f</guid>
+      <category>gujarat</category>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>અમદાવાદમાં મેઘરાજાની તોફાની બેટિંગ: 4 કલાકમાં વટવામાં પોણા ત્રણ ઈંચ અને બાકરોલમાં 1 કલાકમાં 2 ઈંચ ધોધમાર વરસાદ</title>
       <link>https://www.gujaratsamachar.com/news/ahmedabad/rain-in-ahmedabad-since-early-morning-more-than-two-and-a-half-inches-of-water-falling-in-hanspura-and-motera-in-24-hours-47153542837</link>
       <guid isPermaLink="false">455972d09c5b6afa81f03de3a8612469894891bd</guid>
       <category>ahmedabad</category>
