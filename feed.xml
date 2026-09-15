@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>gu</language>
-    <lastBuildDate>Tue, 15 Sep 2026 06:06:01 +0000</lastBuildDate>
-    <item>
-      <title>ગુજરાતની પંચાયતોમાં અંધેર વહીવટ: રૂ.723 કરોડ કોની પાસેથી વસૂલવાના છે તેનો સરકાર પાસે રેકોર્ડ જ નથી!</title>
-      <link>https://www.gujaratsamachar.com/news/gandhinagar/lawless-administration-in-gujarats-panchayats-the-government-has-no-record-of-who-is-to-recover-rs-723-crore-from-67325058273</link>
-      <guid isPermaLink="false">04079a96e2553071d8c1d5866ffc7cdc86c63118</guid>
-      <category>gandhinagar</category>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>રાજસ્થાનમાં દિગ્ગજોના ગઢમાં જ ભાજપનો સફાયો! પૂર્વ CMથી લઈને મોટા મંત્રીઓને ફટકો</title>
-      <link>https://www.gujaratsamachar.com/news/national/bjp-wiped-out-in-rajasthans-stronghold-from-former-cm-to-big-ministers-blow-20941741714</link>
-      <guid isPermaLink="false">db3f29581d32d817dd02c107452a562bd77cec27</guid>
-      <category>national</category>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 15 Sep 2026 06:42:50 +0000</lastBuildDate>
     <item>
       <title>જિનપિંગના પરત ફર્યા બાદ ડ્રેગનનું મોટું નિવેદન: ભારત પોતાની જમીન પર ચીન-વિરોધી ગતિવિધિ નહીં થવા દે!</title>
       <link>https://www.gujaratsamachar.com/news/international/dragons-big-statement-after-jinpings-return-india-will-not-allow-anti-china-activities-on-its-soil-10271647974</link>
@@ -80,6 +66,20 @@
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>કેન્દ્રીય કર્મચારીઓનું DA 64% થશે? દિવાળી પહેલાં પગારમાં થશે બમ્પર ઉછાળો, સમજો ગણિત</title>
+      <link>https://www.gujaratsamachar.com/news/utility/Central-Government-Employees-Await-8th-Pay-Commission-and-DA-Hike-48392712527</link>
+      <guid isPermaLink="false">fefc6b4d020db646bdaa1462a357f778dd1515b1</guid>
+      <category>utility</category>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>દિલ્હી એરપોર્ટ પર ગંભીર સુરક્ષા ચૂક: ઇમિગ્રેશન વગર 3 લોકો મ્યુનિક પહોંચી ગયા, સરકારે બોલાવી ઇમરજન્સી બેઠક</title>
+      <link>https://www.gujaratsamachar.com/news/national/serious-security-lapse-at-delhi-airport-3-people-reached-munich-without-immigration-government-calls-emergency-meeting-29853610606</link>
+      <guid isPermaLink="false">062927cea6494f8c14b922084094098d9d008081</guid>
+      <category>national</category>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>કોંગ્રેસમાં મોટા ફેરબદલની તૈયારી: રાહુલ ગાંધી-પ્રિયંકા ગાંધીએ 130 નેતાઓને પૂછ્યા આકરા સવાલો, કોનું કપાશે પત્તું?</title>
       <link>https://www.gujaratsamachar.com/news/national/preparations-for-a-big-reshuffle-in-congress-rahul-gandhi-priyanka-gandhi-asked-tough-questions-to-130-leaders-whose-cards-will-be-cut-94547241375</link>
       <guid isPermaLink="false">01782860642d65be2ecd4d39313b4d2dffab1aa2</guid>
@@ -87,10 +87,10 @@
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>કેન્દ્રીય કર્મચારીઓનું DA 64% થશે? દિવાળી પહેલાં પગારમાં થશે બમ્પર ઉછાળો, સમજો ગણિત</title>
-      <link>https://www.gujaratsamachar.com/news/utility/Central-Government-Employees-Await-8th-Pay-Commission-and-DA-Hike-48392712527</link>
-      <guid isPermaLink="false">fefc6b4d020db646bdaa1462a357f778dd1515b1</guid>
-      <category>utility</category>
+      <title>મિસાઇલ-ડ્રોન હુમલાથી સાઉદી અરેબિયામાં દહેશત: જેદ્દાહ, આભા અને જાઝાનમાં ઈમરજન્સી એલર્ટ</title>
+      <link>https://www.gujaratsamachar.com/news/international/Yemeni-Houthi-Missiles-Target-Saudi-Airbase-Oil-Supply-Pressures-Rise-18474523040</link>
+      <guid isPermaLink="false">402635937cb86d2a17d49df4845a57f09767791d</guid>
+      <category>international</category>
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
