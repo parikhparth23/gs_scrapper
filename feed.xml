@@ -8,28 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>gu</language>
-    <lastBuildDate>Wed, 16 Sep 2026 10:04:31 +0000</lastBuildDate>
-    <item>
-      <title>ચાંદીમાં તેજીનો ચમકારો: બજાર ખૂલતાં જ 3870 રૂપિયાનો જબરદસ્ત ઉછાળો, સોનું પણ મોંઘું</title>
-      <link>https://www.gujaratsamachar.com/news/business/silver-surges-huge-jump-of-rs-3870-as-soon-as-the-market-opens-gold-also-becomes-expensive-63126440305</link>
-      <guid isPermaLink="false">94cf91c91f154becc3013fa40e962a55e9ab4303</guid>
-      <category>business</category>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>VIDEO: દમણમાં ગણેશ વિસર્જન સમયે મોટી દુર્ઘટના ટળી, દરિયામાં ડૂબતા યુવકને માછીમારોએ મોતના મુખમાંથી ઉગાર્યો</title>
-      <link>https://www.gujaratsamachar.com/news/diu-daman/fishermen-bravely-rescue-a-young-man-who-was-trapped-during-ganesh-immersion-in-the-sea-of-daman-40123682909</link>
-      <guid isPermaLink="false">0d00b6fcdb9b2a2dcd87feb2fc56d4acf55e4580</guid>
-      <category>diu-daman</category>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>VIDEO : પવિત્ર મક્કા શહેર પર હુમલાનો પ્રયાસ? સાઉદીના આરોપો હુથીઓએ ફગાવ્યાં</title>
-      <link>https://www.gujaratsamachar.com/news/international/video-attempted-attack-on-the-holy-city-of-mecca-houthis-reject-saudi-allegations-93902462591</link>
-      <guid isPermaLink="false">dfad2ec5496b810b9c6c5f5753c6a4d7c903f39b</guid>
-      <category>international</category>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 16 Sep 2026 10:37:34 +0000</lastBuildDate>
     <item>
       <title>રેલવેથી માંડી પેટ્રોલ પંપ સુધી... એ 5 UPI ની રોજિંદી લેવડ-દેવડ જ્યાં લાગશે રૂ.5 MDR</title>
       <link>https://www.gujaratsamachar.com/news/business/from-railways-to-petrol-pumps-these-5-upi-daily-transactions-where-rs5-mdr-will-be-charged-49616020571</link>
@@ -66,6 +45,27 @@
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>ચોમાસાની નવી પેટર્ન: સિસ્ટમ સક્રિય છતાં ગુજરાતમાં વરસાદનું જોર ઘટવાની સંભાવના, જાણો 7 દિવસની આગાહી</title>
+      <link>https://www.gujaratsamachar.com/news/ahmedabad/gujarat-weather-forecast-next-7-days-light-rain-thunderstorm-alert-imd-96448932371</link>
+      <guid isPermaLink="false">4d3ee65f24206612f5ee7244c27d03821742dcc4</guid>
+      <category>ahmedabad</category>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>સુરતમાં બરફ વર્ષા વચ્ચે ગણપતિ બાપ્પા, નાનપુરાના ‘સ્નો સિટી’ ગણેશ પંડાલમાં સ્વિત્ઝર્લેન્ડનો અનુભવ</title>
+      <link>https://www.gujaratsamachar.com/news/surat/bappa-sits-amidst-igloos-penguins-and-snowfall-surat-residents-get-a-feel-of-switzerland-at-the-snow-city-ganesh-pandal-during-ganeshotsav-21588674323</link>
+      <guid isPermaLink="false">2ddfab0b2db14cf038f65cbfcd15a1746043f6a3</guid>
+      <category>surat</category>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>સુરતની પી.પી. સવાણી હોસ્ટેલમાં ફૂડ પોઈઝનિંગની ઘટના બાદ તંત્ર જાગ્યું, રાજ્યભરમાં 386 સ્થળે તપાસ, 102ને નોટિસ</title>
+      <link>https://www.gujaratsamachar.com/news/gujarat/food-and-drug-control-dep-gujarat-hostel-canteen-inspection-drive-after-surat-pp-savani-hostel-food-poisoning-case-85724816739</link>
+      <guid isPermaLink="false">5d80710d3c801c7459b1ef8a7d94b4cf2a0b7f67</guid>
+      <category>gujarat</category>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>અમદાવાદના સાણંદમાં દીપડો દેખાયાની ચર્ચા, કૂતરાનો શિકાર કર્યાનો દાવો, ફરી પાંજરા ગોઠવાયા</title>
       <link>https://www.gujaratsamachar.com/news/ahmedabad/discussion-of-leopard-sighting-in-sanand-ahmedabad-claim-of-dog-complaint-cages-set-up-again-49444857665</link>
       <guid isPermaLink="false">17131a87f969e1aa7dbd9cd26f9bb1796c850ef4</guid>
@@ -87,10 +87,10 @@
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>ચોમાસાની નવી પેટર્ન: સિસ્ટમ સક્રિય છતાં ગુજરાતમાં વરસાદનું જોર ઘટવાની સંભાવના, જાણો 7 દિવસની આગાહી</title>
-      <link>https://www.gujaratsamachar.com/news/ahmedabad/gujarat-weather-forecast-next-7-days-light-rain-thunderstorm-alert-imd-96448932371</link>
-      <guid isPermaLink="false">4d3ee65f24206612f5ee7244c27d03821742dcc4</guid>
-      <category>ahmedabad</category>
+      <title>નોકરિયાતો માટે મોદી કેબિનેટનો નિર્ણય, EPFO વેતન મર્યાદા વધારીને 25 હજાર કરાઈ, જાણો કોને થશે ફાયદો</title>
+      <link>https://www.gujaratsamachar.com/news/utility/epfo-wage-ceiling-raised-15000-to-25000-benefits-pf-pension-insurance-impact-94090141039</link>
+      <guid isPermaLink="false">aff1db4691d2e8d5d2fcc4f136092b7af3f6e5aa</guid>
+      <category>utility</category>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
