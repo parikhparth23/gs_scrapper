@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>gu</language>
-    <lastBuildDate>Thu, 17 Sep 2026 06:42:04 +0000</lastBuildDate>
-    <item>
-      <title>WhatsApp પર ડિજિટલ કંકોત્રી ખોલતાં જ બેન્ક એકાઉન્ટ સફાચટ: અમદાવાદના વૃદ્ધે ગુમાવ્યા રૂ.15.45 લાખ!</title>
-      <link>https://www.gujaratsamachar.com/news/ahmedabad/caution-maninagar-old-man-loses-rs-1545-lakh-while-downloading-wedding-digital-kankotri-on-whatsapp-69916694867</link>
-      <guid isPermaLink="false">b0f2f51f89af93e63bd344927e11b6a50abb25ad</guid>
-      <category>ahmedabad</category>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>જમ્મુ-કાશ્મીરના ઉધમપુરમાં મોડી રાત્રે ભીષણ અથડામણ: સુરક્ષા દળોએ જૈશના 2 આતંકીઓને કર્યા ઠાર!</title>
-      <link>https://www.gujaratsamachar.com/news/national/fierce-encounter-in-udhampur-jammu-and-kashmir-late-night-security-forces-kill-2-jaish-terrorists-65246771184</link>
-      <guid isPermaLink="false">bbe27e941f54fea520f6ce18be989af366d41882</guid>
-      <category>national</category>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 17 Sep 2026 07:06:15 +0000</lastBuildDate>
     <item>
       <title>સરકારે પેટ્રોલ-ડીઝલ પર વિન્ડફોલ ટેક્સ ઘટાડ્યો: કંપનીઓની બલ્લે-બલ્લે, પણ સામાન્ય જનતાને શું મળશે?</title>
       <link>https://www.gujaratsamachar.com/news/national/government-reduces-windfall-tax-on-petrol-and-diesel-companies-are-happy-but-what-will-the-general-public-get-40217273458</link>
@@ -73,6 +59,13 @@
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>‘ભારતની સેમિકન્ડક્ટર ઇકોસિસ્ટમ મજબૂત થઈ રહી છે’, સેમિકોન ઇન્ડિયા 2026નું PM મોદી દ્વારા ઉદ્ઘાટન</title>
+      <link>https://www.gujaratsamachar.com/news/national/worlds-trust-in-india-increased-pm-modi-inaugurated-semicon-india-2026-gave-future-mantra-22239344698</link>
+      <guid isPermaLink="false">27e8c13ee4f2dccc9af7d7b495f65587e6e4bcb1</guid>
+      <category>national</category>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>EPFO વેજ સીલિંગ રૂ.25,000 થઈ: 51 લાખ કર્મચારીઓને સીધો લાભ, પણ હાથમાં આવતો પગાર ઘટશે</title>
       <link>https://www.gujaratsamachar.com/news/utility/EPFO-Wage-Ceiling-Raised-to-25000-Impact-on-Salary-and-EPF-Contributions-31504710347</link>
       <guid isPermaLink="false">6b9e193bcb01037c10027a72cd33880c5cf7f6da</guid>
@@ -87,9 +80,16 @@
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>‘ભારતની સેમિકન્ડક્ટર ઇકોસિસ્ટમ મજબૂત થઈ રહી છે’, સેમિકોન ઇન્ડિયા 2026નું PM મોદી દ્વારા ઉદ્ઘાટન</title>
-      <link>https://www.gujaratsamachar.com/news/national/worlds-trust-in-india-increased-pm-modi-inaugurated-semicon-india-2026-gave-future-mantra-22239344698</link>
-      <guid isPermaLink="false">27e8c13ee4f2dccc9af7d7b495f65587e6e4bcb1</guid>
+      <title>પૃથ્વી પર મહાસંકટ: ગ્રીનલેન્ડ-એન્ટાર્કટિકામાંથી 12 લાખ કરોડ ટન બરફ ગાયબ, 90 લાખ લોકો પર પૂરનું જોખમ</title>
+      <link>https://www.gujaratsamachar.com/news/international/major-crisis-on-earth-12-trillion-tons-of-ice-disappear-from-greenland-antarctica-9-million-people-at-risk-of-flooding-48157357638</link>
+      <guid isPermaLink="false">e937d4ca156328f5b42ca75fe41c0ce544262410</guid>
+      <category>international</category>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>40 પૈસામાં કોઈ મરી નથી જવાનું, સરકાર બધુ મફતમાં ના આપી શકે: UPI ચાર્જ મુદ્દે નીતિ આયોગનું દોઢડાહપણ</title>
+      <link>https://www.gujaratsamachar.com/news/national/Government-Proposes-Charges-on-Large-UPI-Transactions-PIL-Filed-in-SC-19585493941</link>
+      <guid isPermaLink="false">f3e6de0b8c30522811d37a16d8504547763b0fa3</guid>
       <category>national</category>
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
     </item>
