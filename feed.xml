@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>gu</language>
-    <lastBuildDate>Fri, 18 Sep 2026 03:04:26 +0000</lastBuildDate>
-    <item>
-      <title>ECએ તૃણમૂલ કોંગ્રેસનું નામ અને  ચૂંટણી ચિન્હ ફ્રીઝ કર્યું, મમતા અને ઋતબ્રત બેનરજી બંનેને મોટો ઝટકો</title>
-      <link>https://www.gujaratsamachar.com/news/national/ec-freezes-trinamool-congress-name-and-election-symbol-a-big-blow-to-both-mamata-and-ritabrata-banerjee-16563711817</link>
-      <guid isPermaLink="false">9d406b29cf0a86d2fc84b2f99059411cae7a8960</guid>
-      <category>national</category>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ક્રિકેટર પૃથ્વી શૉની લવ લાઈફમાં મોટો ઝટકો: મંગેતર આકૃતિ અગ્રવાલે સંબંધ તોડ્યો, પોસ્ટ વાયરલ</title>
-      <link>https://www.gujaratsamachar.com/news/sports/prithvi-shaws-engagement-called-off-indian-cricketers-fiancee-aakriti-agarwal-confirms-writes-a-long-post-on-social-media-77235440008</link>
-      <guid isPermaLink="false">62a833756de6c88ec5740f38a9b10554a151c581</guid>
-      <category>sports</category>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 18 Sep 2026 03:36:18 +0000</lastBuildDate>
     <item>
       <title>સોના-ચાંદીના ભાવમાં કડાકો: ચાંદી રૂ.4,500 તૂટી, સોનું રૂ.2,000 સસ્તું; જાણો બજાર ક્રેશ થવાના 5 કારણો</title>
       <link>https://www.gujaratsamachar.com/news/business/gold-and-silver-prices-crash-silver-falls-by-rs-4500-gold-cheaper-by-rs-2000-know-5-reasons-for-market-crash-47114126906</link>
@@ -59,7 +45,7 @@
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>ગ્રાહકો પાસેથી વસૂલીશું અથવા રોકડ વ્યવહાર કરીશું : વેપારીઓનો બળાપો</title>
+      <title>UPI પર લાગતો ચાર્જ ગ્રાહકો પાસેથી વસૂલીશું અથવા રોકડ વ્યવહાર કરીશું : વેપારીઓનો બળાપો</title>
       <link>https://www.gujaratsamachar.com/news/national/will-we-collect-from-customers-or-will-we-do-cash-transactions-traders-plea-16517231021</link>
       <guid isPermaLink="false">36220e703407a6c93ef2cdd63cdcb6804ed338fe</guid>
       <category>national</category>
@@ -70,6 +56,20 @@
       <link>https://www.gujaratsamachar.com/news/rajkot/monsoon-was-weak-in-51-percent-of-the-country-including-gujarat-and-normal-in-49-percent-28354447613</link>
       <guid isPermaLink="false">f89de96084c58d7ec855db16e5dab1ab48019c34</guid>
       <category>rajkot</category>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>કંઈક મોટું થશે! યુદ્ધ શરૂ થયા બાદ પહેલીવાર ઈરાનના બે ટોચના લીડર અમેરિકા જશે, શું છે કારણ?</title>
+      <link>https://www.gujaratsamachar.com/news/international/Trump-Admin-Allows-Iran-Delegation-to-UN-Assembly-Amid-Tensions-98962411425</link>
+      <guid isPermaLink="false">01711c03db275ee7ec82fe68d34558838a997c66</guid>
+      <category>international</category>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ક્રિકેટના મેદાનમાં અદભૂત નજારો! 3-0થી હારેલી અફઘાની ટીમનો કેપ્ટન ભારતીયોની ઉજવણીમાં જોડાયો</title>
+      <link>https://www.gujaratsamachar.com/news/sports/amazing-view-on-the-cricket-field-captain-of-the-afghan-team-who-lost-3-0-joined-the-indians-celebrations-53725341464</link>
+      <guid isPermaLink="false">49ca8960c14b55527042152337aa2731d2e7c954</guid>
+      <category>sports</category>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -87,10 +87,10 @@
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>કંઈક મોટું થશે! યુદ્ધ શરૂ થયા બાદ પહેલીવાર ઈરાનના બે ટોચના લીડર અમેરિકા જશે, શું છે કારણ?</title>
-      <link>https://www.gujaratsamachar.com/news/international/Trump-Admin-Allows-Iran-Delegation-to-UN-Assembly-Amid-Tensions-98962411425</link>
-      <guid isPermaLink="false">01711c03db275ee7ec82fe68d34558838a997c66</guid>
-      <category>international</category>
+      <title>ગુજરાતમાં મેઘરાજાની ધડબડાટી, 24 કલાકમાં 150 તાલુકામાં વરસાદ, મોરબીના માળીયામાં સૌથી વધુ 5.16 ઇંચ ખાબક્યો</title>
+      <link>https://www.gujaratsamachar.com/news/gujarat/gujarat-rain-in-150-talukas-in-24-hours-highest-rainfall-of-516-inches-in-maliya-morbi-86673223099</link>
+      <guid isPermaLink="false">c0852b660ae326ca6c4f680071d91f15bbe234cc</guid>
+      <category>gujarat</category>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
