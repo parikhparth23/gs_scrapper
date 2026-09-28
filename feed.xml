@@ -8,75 +8,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>gu</language>
-    <lastBuildDate>Mon, 28 Sep 2026 12:05:50 +0000</lastBuildDate>
-    <item>
-      <title>બ્લેક મંડે : સેન્સેક્સ-નિફ્ટી, સોના-ચાંદી.... જ્યાં જુઓ ત્યાં કડાકો, રોકાણકારો કેમ ભયભીત?</title>
-      <link>https://www.gujaratsamachar.com/news/business/black-monday-sensex-nifty-gold-silver-everywhere-you-look-there-is-a-crash-why-are-investors-scared-99904361607</link>
-      <guid isPermaLink="false">9c0bc5b953d97271a03b8b0c037576e741974e85</guid>
-      <category>business</category>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>VIDEO: ટીમ ઈન્ડિયાના ખેલાડીના પ્લેયર એડિશન ધરાવતા 3 કિંમતી બેટની ચોરી, પૂછ્યું- 'હવે શું કરું?'</title>
-      <link>https://www.gujaratsamachar.com/news/sports/deepak-chahar-player-edition-bats-stolen-from-ground-57415343529</link>
-      <guid isPermaLink="false">ce0a5bf6615bac2b6dbede13d04c4337431bcf6d</guid>
-      <category>sports</category>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>માથા કે કમરના દુ:ખાવામાં પેઇનકિલર લેવાની ટેવ છે? CDSCOની ચેતવણી: કિડની થઈ શકે છે ફેઇલ!</title>
-      <link>https://www.gujaratsamachar.com/news/national/CDSCO-Warning-Long-Term-Use-of-Painkillers-and-Antibiotics-Can-Damage-Kidneys-73346788107</link>
-      <guid isPermaLink="false">f4f44a877592d48403c962c816c8017cfa20e019</guid>
-      <category>national</category>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>VIDEO: ‘પ્લીઝ અમારી મદદ કરો...’કેદારનાથમાં ફસાયેલા સુરતના પરિવારનો વીડિયો વાયરલ, 14 લોકોનું સફળ રેસ્ક્યૂ!</title>
-      <link>https://www.gujaratsamachar.com/news/surat/surat-family-in-trouble-amid-heavy-rains-in-kedarnath-only-3-out-of-14-people-rescued-by-helicopter-11-pilgrims-still-trapped-16027456300</link>
-      <guid isPermaLink="false">ec2a6074ed95342a90a611bb7f7ee922a3d4544a</guid>
-      <category>surat</category>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>VIDEO: સુરતમાં કારખાનામાં ચોરી કરવા ઘૂસેલા 2 ચોર ફસાયા, બહાર નીકળવા બૂમો પાડતા બારીના સળિયા કાપીને રેસ્ક્યુ કર્યા</title>
-      <link>https://www.gujaratsamachar.com/news/surat/surat-two-thieves-who-entered-a-closed-factory-to-steal-were-trapped-they-were-rescued-by-cutting-the-window-bars-while-shouting-to-get-out-81618246937</link>
-      <guid isPermaLink="false">a8874386e5f4ba85ab846e6fc09e162bb0c180fc</guid>
-      <category>surat</category>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>બાબરા APMCની ચૂંટણી માટે મતદાન: ભાજપ સામે અસંતુષ્ટો-કોંગ્રેસની મિક્સ પેનલે મોરચો માંડતાં ધમસાણ!</title>
-      <link>https://www.gujaratsamachar.com/news/amreli/babra-apmc-election-voting-bjp-vs-congress-mix-panel-in-amreli-16651975085</link>
-      <guid isPermaLink="false">eab51f90517a5b1d79c0779f62d78222466b1f29</guid>
-      <category>amreli</category>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ઇન્કલાબનો અવાજ: 23 વર્ષની ઉંમરે ફાંસી, જાણો કેવી રીતે ભગતસિંહે અંગ્રેજોને હંફાવ્યા હતા</title>
-      <link>https://www.gujaratsamachar.com/news/national/bhagat-singh-birth-anniversary-life-and-sacrifice-97544908012</link>
-      <guid isPermaLink="false">2a8c04dfec0e26b0615fcc1bc35c2c8e12b79bc7</guid>
-      <category>national</category>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 28 Sep 2026 12:44:46 +0000</lastBuildDate>
     <item>
       <title>VIDEO | સુરતના અમરોલીમાં જૂની અદાવતમાં બે જૂથ વચ્ચે મારામારી-પથ્થરમારો: 7થી વધુ ઈજાગ્રસ્ત, 5ની અટકાયત</title>
       <link>https://www.gujaratsamachar.com/news/surat/amroli-group-clash-stone-pelting-society-police-action-70720922919</link>
       <guid isPermaLink="false">9baf96b6b1cd4e46125e81ca66056930eafc28fb</guid>
       <category>surat</category>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>પાક-અફઘાન સરહદે આરપારની લડાઈ શરૂ! 28 લડાકુ ઠાર, 32 ઝડપાયા; જાણો ગ્રાઉન્ડ રિયાલિટી</title>
-      <link>https://www.gujaratsamachar.com/news/international/fighting-begins-across-pak-afghan-border-28-militants-killed-32-captured-know-the-ground-reality-38314388459</link>
-      <guid isPermaLink="false">cc176f6c865820400f394f9c737302c044ee6f0b</guid>
-      <category>international</category>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>"જ્ઞાનેશ કુમાર રાજીનામું આપો!": ગુજરાતના અનેક શહેરોમાં કોંગ્રેસનું કાળા ઝંડા સાથે ઉગ્ર પ્રદર્શન, પોલીસ સાથે ઘર્ષણ!</title>
-      <link>https://www.gujaratsamachar.com/news/gujarat/congresss-fierce-protest-in-many-cities-including-rajkot-surat-jamnagar-slogans-against-gyanesh-kumar-38939953967</link>
-      <guid isPermaLink="false">e1eddb63ee0a33622181b23cf998ced08ac8a615</guid>
-      <category>gujarat</category>
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -91,6 +28,69 @@
       <link>https://www.gujaratsamachar.com/news/amreli/savarkundla-encroachment-removal-drive-mahuva-road-demolition-49047168088</link>
       <guid isPermaLink="false">4266da927b66e4afdf768c0b1c529aa395f668e7</guid>
       <category>amreli</category>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ઉજ્જૈન શાહી જામા મસ્જિદ કમિટીને હાઈકોર્ટનો ઝટકો: માત્ર 3 ફૂટ ભાગ હટાવાશે, ડિમોલિશન પર સ્ટે આપવાનો ઇનકાર!</title>
+      <link>https://www.gujaratsamachar.com/news/national/3-feet-portion-of-ujjains-shahi-masjid-to-be-removed-high-court-rejects-committees-plea-and-refuses-to-grant-stay-45360400502</link>
+      <guid isPermaLink="false">bb6ca25e10063603fc7a7b24819fce7c9ec660f1</guid>
+      <category>national</category>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>"જ્ઞાનેશ કુમાર રાજીનામું આપો!": ગુજરાતના અનેક શહેરોમાં કોંગ્રેસનું કાળા ઝંડા સાથે ઉગ્ર પ્રદર્શન, પોલીસ સાથે ઘર્ષણ!</title>
+      <link>https://www.gujaratsamachar.com/news/gujarat/congresss-fierce-protest-in-many-cities-including-rajkot-surat-jamnagar-slogans-against-gyanesh-kumar-38939953967</link>
+      <guid isPermaLink="false">e1eddb63ee0a33622181b23cf998ced08ac8a615</guid>
+      <category>gujarat</category>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>કોની થશે તૃણમૂલ કોંગ્રેસ? મમતા બેનરજીની અરજી પર સુપ્રીમ કોર્ટે ચૂંટણી પંચને ડેડલાઇન આપી દીધી</title>
+      <link>https://www.gujaratsamachar.com/news/national/who-will-be-the-trinamool-congress-supreme-court-gives-deadline-to-election-commission-on-mamata-banerjees-petition-91802177180</link>
+      <guid isPermaLink="false">27ad72719a6c1db1650acae8b2997815edeb7f6b</guid>
+      <category>national</category>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>અમદાવાદ ગ્રામ્યમાં બેરોકટોક ધમધમે છે દેશી-વિદેશી દારૂના અડ્ડા!: પોલીસની રહસ્યમય નિષ્ક્રિયતા સામે સ્થાનિકોમાં આક્રોશ</title>
+      <link>https://www.gujaratsamachar.com/news/ahmedabad/rural-illegal-liquor-dens-police-inaction-public-outrage-daskroi-sanand-dholka-illegal-liquor-trade-64445315871</link>
+      <guid isPermaLink="false">becd67b3112bf91cd53465c492c94adbb137b47a</guid>
+      <category>ahmedabad</category>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>માથા કે કમરના દુ:ખાવામાં પેઇનકિલર લેવાની ટેવ છે? CDSCOની ચેતવણી: કિડની થઈ શકે છે ફેઇલ!</title>
+      <link>https://www.gujaratsamachar.com/news/national/CDSCO-Warning-Long-Term-Use-of-Painkillers-and-Antibiotics-Can-Damage-Kidneys-73346788107</link>
+      <guid isPermaLink="false">f4f44a877592d48403c962c816c8017cfa20e019</guid>
+      <category>national</category>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ગુજરાતમાં મમૂટીના માથે તિલક જોઈ કટ્ટરપંથીઓ ભડક્યા! અભિનેતા હરીશ્રી યુસુફે ટ્રોલર્સને બરાબરના ખખડાવ્યા</title>
+      <link>https://www.gujaratsamachar.com/news/entertainment/in-gujarat-extremists-were-outraged-after-seeing-mammoottys-tilak-on-his-head-actor-harishree-yusuf-slammed-the-trolls-78951858267</link>
+      <guid isPermaLink="false">674cdc763327d4c7ecc478d771f49386b9edfebf</guid>
+      <category>entertainment</category>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>VIDEO:  હિટમેન રોહિત શર્મા બસમાંથી ઊતરતી વખતે લપસી પડ્યો, વિરાટ કોહલીનું રિએક્શન વાઈરલ</title>
+      <link>https://www.gujaratsamachar.com/news/sports/video-hitman-rohit-sharma-slips-while-getting-off-the-bus-virat-kohlis-reaction-goes-viral-68263426437</link>
+      <guid isPermaLink="false">1ebd2b7fa64ddf989b8764c2aaf6a8ac9e46aaae</guid>
+      <category>sports</category>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>કુંભ, મીન, ધન સહિત આ 6 રાશિના જાતકો પર 74 દિવસ સુધી રહેશે શનિની કુદૃષ્ટિ! જાણો બચવાના ઉપાય</title>
+      <link>https://www.gujaratsamachar.com/news/astro/Shani-Vakri-2026-Impact-on-6-Zodiac-Signs-and-Effective-Astrological-Remedies-56221723248</link>
+      <guid isPermaLink="false">c596101f392f2a40263443ddf9b9b86d69fee594</guid>
+      <category>astro</category>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>'જે લોકો ટ્રાફિક ચલણ નથી ભરતા તેની રકમ વીજળી બિલમાં જોડી દો', સુપ્રીમ કોર્ટે એક સાથે આપ્યા અનેક સૂચન</title>
+      <link>https://www.gujaratsamachar.com/news/national/supreme-court-suggests-adding-pending-traffic-challans-to-electricity-bills-15402125917</link>
+      <guid isPermaLink="false">c292821743be6efeb3df53dfa6c4cc48d0e43522</guid>
+      <category>national</category>
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
