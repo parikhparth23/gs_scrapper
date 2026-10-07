@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>gu</language>
-    <lastBuildDate>Wed, 07 Oct 2026 10:07:16 +0000</lastBuildDate>
-    <item>
-      <title>અમદાવાદમાં સ્કૂલ સહિત દિલજીત દોસાંઝના કાર્યક્રમ વખતે મોદી સ્ટેડિયમમાં બોમ્બ બ્લાસ્ટની ધમકી</title>
-      <link>https://www.gujaratsamachar.com/news/ahmedabad/bomb-blast-threats-at-school-court-modi-stadium-and-diljit-dosanjhs-event-in-ahmedabad-56275061868</link>
-      <guid isPermaLink="false">07fdb915b0c356a90fc629dbd276b3ac652ad3a9</guid>
-      <category>ahmedabad</category>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>1968 બાદ પહેલીવાર વિદ્યાર્થીઓનું પ્રચંડ આંદોલન, ફ્રાન્સમાં કેમ 2.56 લાખ લોકો માર્ગો પર  ઊતર્યા?</title>
-      <link>https://www.gujaratsamachar.com/news/international/France-Student-Protests-Crisis-Education-System-Backlash-Over-6000-Detained-33307489298</link>
-      <guid isPermaLink="false">e6381cdef0c381f67915a256ce65d5167465aade</guid>
-      <category>international</category>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 07 Oct 2026 10:40:05 +0000</lastBuildDate>
     <item>
       <title>ગુજરાતના CMથી લઈને દેશના PM સુધીના પ્રમુખ પદોએ 25 વર્ષ પૂરા થવા પર PM મોદીએ કહ્યું- દેશની પ્રજાનો આભાર</title>
       <link>https://www.gujaratsamachar.com/news/national/prime-minister-narendra-modi-twenty-years-service-thanks-public-24259691422</link>
@@ -59,6 +45,20 @@
       <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Explainer: મહારાષ્ટ્ર-આંધ્ર પ્રદેશ દુષ્કાળની ચપેટમાં, ક્લાઈમેટ ચેન્જની અતિ ગંભીર અસરો અને બોધપાઠ</title>
+      <link>https://www.gujaratsamachar.com/news/national/explainer-maharashtra-andhra-pradesh-in-the-grip-of-drought-the-very-serious-impacts-of-climate-change-and-the-lessons-learned-33586493849</link>
+      <guid isPermaLink="false">287028acd6d3006f70a4d2b3f96147af4752567a</guid>
+      <category>national</category>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ગુજરાત હાઈકોર્ટના ચુકાદા પર તાત્કાલિક પગલાં લેવા આદેશ: સરકારે બનાવી SOP, બેદરકાર અધિકારીઓ સામે થશે કાર્યવાહી!</title>
+      <link>https://www.gujaratsamachar.com/news/ahmedabad/gujarat-government-high-court-judgments-time-bound-compliance-new-sop-36050973518</link>
+      <guid isPermaLink="false">b05a0e720f5a17722faf8a6d0febffbbf8a6d485</guid>
+      <category>ahmedabad</category>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>અમરેલીના પૂર્વ સાંસદ અને કોંગ્રેસના દિગ્ગજ નેતા વીરજી ઠુમ્મરનું નિધન, માંદગી બાદ વતનમાં લીધા અંતિમ શ્વાસ</title>
       <link>https://www.gujaratsamachar.com/news/amreli/former-amreli-mp-and-veteran-congress-leader-virji-thummar-passes-away-took-his-last-breath-in-his-hometown-after-illness-68345529589</link>
       <guid isPermaLink="false">07235cfb9816c907212079a405d090ba2fbe8d01</guid>
@@ -66,9 +66,9 @@
       <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Explainer: મહારાષ્ટ્ર-આંધ્ર પ્રદેશ દુષ્કાળની ચપેટમાં, ક્લાઈમેટ ચેન્જની અતિ ગંભીર અસરો અને બોધપાઠ</title>
-      <link>https://www.gujaratsamachar.com/news/national/explainer-maharashtra-andhra-pradesh-in-the-grip-of-drought-the-very-serious-impacts-of-climate-change-and-the-lessons-learned-33586493849</link>
-      <guid isPermaLink="false">287028acd6d3006f70a4d2b3f96147af4752567a</guid>
+      <title>ચૂંટણી પંચ વિરુદ્ધ ધરણાં ચાલુ રહેશે, વિપક્ષના સાંસદો સાથે રાહુલ ગાંધી જંતર-મંતર જવા રવાના</title>
+      <link>https://www.gujaratsamachar.com/news/national/protests-resume-in-delhi-rahul-gandhi-makes-a-big-statement-leaves-for-jantar-mantar-to-protest-with-opposition-mps-54066105683</link>
+      <guid isPermaLink="false">74f62bc0149e4b21006b9ced489294cb2791b710</guid>
       <category>national</category>
       <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
     </item>
