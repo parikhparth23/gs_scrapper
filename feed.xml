@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>gu</language>
-    <lastBuildDate>Thu, 08 Oct 2026 06:07:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 06:47:43 +0000</lastBuildDate>
     <item>
       <title>'મારી ઈચ્છા અધૂરી રહી ગઇ, જીવનભર મને સતાવશે...' નાના પાટેકરના નિધનથી રિતેશ દેશમુખ આઘાતમાં</title>
       <link>https://www.gujaratsamachar.com/news/entertainment/my-wish-remained-unfulfilled-it-will-haunt-me-for-the-rest-of-my-life-riteish-deshmukh-shocked-by-nana-patekars-37443669438</link>
@@ -31,13 +31,6 @@
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>ભારતીય સિનેમાનો 'ક્રાંતિવીર' અસ્ત: રાજનેતાઓથી લઈને બોલિવૂડની હસ્તીઓ પણ દુઃખી, ડૉક્ટરે પણ છેલ્લી ઘડીનો ઘટનાક્રમ જણાવ્યો</title>
-      <link>https://www.gujaratsamachar.com/news/entertainment/Veteran-Actor-Nana-Patekar-Passes-Away-at-75-Due-to-Cardiac-Arrest-92373998418</link>
-      <guid isPermaLink="false">5d250d8022075310c24728af2d4ca2e446e28930</guid>
-      <category>entertainment</category>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>અમદાવાદમાં મકરબાનો ખામીયુક્ત બ્રિજ બનાવનાર એજન્સીને જ અભ્યાસની જવાબદારી સોંપાઈ</title>
       <link>https://www.gujaratsamachar.com/news/ahmedabad/the-agency-that-built-the-defective-makarba-bridge-in-ahmedabad-was-given-the-responsibility-of-the-study-38321310381</link>
       <guid isPermaLink="false">ed16dcd58be26c6c2a8c9d8d85d356e47527f395</guid>
@@ -52,10 +45,17 @@
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>ઈલોન મસ્કના ‘ચોક્કસ ઉદ્યોગપતિઓ’વાળા દાવા પર ભારતનો જવાબ- અમારો ફ્રેમવર્ક એકદમ નિષ્પક્ષ</title>
-      <link>https://www.gujaratsamachar.com/news/national/Centre-Refutes-Elon-Musks-Claim-of-Discrimination-Against-Starlink-17313918631</link>
-      <guid isPermaLink="false">1ed1fef2171daf991bdf7c16e0ead9da3b38e90a</guid>
+      <title>દેશના ખૂણે-ખૂણે 5G પહોંચ્યું, 50 કરોડ લોકો ગેમિંગ સેક્ટર સાથે જોડાયા: IMCમાં PM મોદીનું સંબોધન</title>
+      <link>https://www.gujaratsamachar.com/news/national/5g-has-reached-every-corner-of-the-country-50-crore-people-have-joined-the-gaming-sector-pm-modis-address-at-imc-17554367873</link>
+      <guid isPermaLink="false">500b3fe974160fe71bb94b845bd5dfe8dbdcc204</guid>
       <category>national</category>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ભારતીય સિનેમાનો 'ક્રાંતિવીર' અસ્ત: રાજનેતાઓથી લઈને બોલિવૂડની હસ્તીઓ પણ દુઃખી, ડૉક્ટરે જણાવ્યો છેલ્લી ઘડીનો ઘટનાક્રમ</title>
+      <link>https://www.gujaratsamachar.com/news/entertainment/Veteran-Actor-Nana-Patekar-Passes-Away-at-75-Due-to-Cardiac-Arrest-92373998418</link>
+      <guid isPermaLink="false">5d250d8022075310c24728af2d4ca2e446e28930</guid>
+      <category>entertainment</category>
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -66,14 +66,14 @@
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>દેશના ખૂણે-ખૂણે 5G પહોંચ્યું, 50 કરોડ લોકો ગેમિંગ સેક્ટર સાથે જોડાયા: IMCમાં PM મોદીનું સંબોધન</title>
-      <link>https://www.gujaratsamachar.com/news/national/5g-has-reached-every-corner-of-the-country-50-crore-people-have-joined-the-gaming-sector-pm-modis-address-at-imc-17554367873</link>
-      <guid isPermaLink="false">500b3fe974160fe71bb94b845bd5dfe8dbdcc204</guid>
+      <title>ભારતના અમુક ઉદ્યોગપતિઓ સ્ટારલિન્ક રોકી રહ્યા હોવાનો મસ્કનો દાવો! ભારતે કહ્યું- અમારા નિયમો એકદમ નિષ્પક્ષ</title>
+      <link>https://www.gujaratsamachar.com/news/national/Centre-Refutes-Elon-Musks-Claim-of-Discrimination-Against-Starlink-17313918631</link>
+      <guid isPermaLink="false">1ed1fef2171daf991bdf7c16e0ead9da3b38e90a</guid>
       <category>national</category>
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>રાહુલ ગાંધી-પ્રિયંકા ગાંધી પર ફરી FIR: પોલીસ સાથે ધક્કા-મુક્કી અને ડ્યુટીમાં વિઘ્ન નાંખવાનો આરોપ</title>
+      <title>રાહુલ ગાંધી-પ્રિયંકા ગાંધી પર ફરી FIR: પોલીસ સાથે ધક્કા-મુક્કી અને ડ્યુટીમાં વિઘ્ન ઊભું કરવાનો આરોપ</title>
       <link>https://www.gujaratsamachar.com/news/national/Delhi-Police-File-FIR-Against-Rahul-Priyanka-Gandhi-Over-Protest-10232690187</link>
       <guid isPermaLink="false">c7ca37f3b0f5ded4a6c9eeec84005640617f2ba1</guid>
       <category>national</category>
