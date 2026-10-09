@@ -8,28 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>gu</language>
-    <lastBuildDate>Fri, 09 Oct 2026 10:07:17 +0000</lastBuildDate>
-    <item>
-      <title>વાયદા બજારમાં ફરી તેજી, ચાંદીમાં 3000 તો સોનામાં 1300થી વધુનો ઉછાળો, રોકાણકારો ખુશ</title>
-      <link>https://www.gujaratsamachar.com/news/business/futures-market-rebounds-again-silver-jumps-by-3000-and-gold-by-more-than-1300-investors-happy-64106769650</link>
-      <guid isPermaLink="false">5dc1681e6b5680ea49b2bfdefe52ef6c3ffb3247</guid>
-      <category>business</category>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ચંદ્ર-શનિનો વિષ યોગ 3 રાશિઓ માટે ઘાતક સાબિત થશે! આજથી જ બજેટ બગાડે તેવી શક્યતા</title>
-      <link>https://www.gujaratsamachar.com/news/astro/Chandra-Shani-Vish-Yog-2026-Impact-on-Aries-Libra-and-Aquarius-54317660026</link>
-      <guid isPermaLink="false">4b75b754e0ccf155d76e647858d71cddd9cf6b89</guid>
-      <category>astro</category>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CJPના દેખાવો પહેલા જ દિલ્હી પોલીસને મોટો ઝટકો, ફ્રી હેન્ડની માગ કરતી અરજી સુપ્રીમ કોર્ટે ફગાવી</title>
-      <link>https://www.gujaratsamachar.com/news/national/Supreme-Court-Rejects-Plea-to-Give-Delhi-Police-Free-Hand-on-Protests-77847633391</link>
-      <guid isPermaLink="false">84284b0b824220647d1506cc168a7e25a32707c3</guid>
-      <category>national</category>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 09 Oct 2026 10:41:35 +0000</lastBuildDate>
     <item>
       <title>કચ્છના ખાવડામાં ગોઝારો અકસ્માત, ટ્રક અને પિકઅપ વાન ધડાકાભેર અથડાતા 7 લોકોના મોત</title>
       <link>https://www.gujaratsamachar.com/news/kutch/major-in-khawda-kutch-pickup-truck-collides-with-truck-7-dead-more-than-15-injured-44883239625</link>
@@ -80,10 +59,31 @@
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>અમદાવાદ: ભાજપના 160 કોર્પોરેટર છતાં કામો ન થતાં હોવાનો આક્ષેપ, ભાજપના જ કોર્પોરેટરે ઇજનેરની ઓફિસને તાળું માર્યું</title>
+      <link>https://www.gujaratsamachar.com/news/ahmedabad/ahmedabad-allegation-that-work-is-not-being-done-despite-160-bjp-corporators-corporator-locks-engineers-office-in-shahpur-25736455263</link>
+      <guid isPermaLink="false">713e6d414070669713be0a324895c6b6ef36c509</guid>
+      <category>ahmedabad</category>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>'બધું ઠપ ન કરી શકો': CJP આંદોલન પહેલા દિલ્હીમાં ટ્રેનો-મેટ્રો બંધ કરવા સામે સુપ્રીમ કોર્ટની ટકોર</title>
       <link>https://www.gujaratsamachar.com/news/national/supreme-court-cji-surya-kant-delhi-protest-curbs-trains-metro-cjp-20493137994</link>
       <guid isPermaLink="false">93a7f9b59cc15b4f6074d6355748a4f30c9f95d3</guid>
       <category>national</category>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>છોટા ઉદેપુર: કુકરદામાં સરકારી કાર્યક્રમમાં ભાજપ-APPના નેતાઓ આમનેસામને, રાજકીય ખેંચતાણના દ્રશ્યો સર્જાયા</title>
+      <link>https://www.gujaratsamachar.com/news/chhota-udaipur/naswadi-kukarda-seva-setu-program-bjp-aap-leaders-political-face-off-76214068335</link>
+      <guid isPermaLink="false">d97cfcef5258178806c29875113f126ca967a2e3</guid>
+      <category>chhota-udaipur</category>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>સુરતમાં શ્રમિકોનું 'ગાંવ ચલો' આંદોલન સળગ્યું!: વિવાદ વકરતાં કેન્દ્રીય કાપડ મંત્રી સુરત દોડી આવ્યા, ટેક્સટાઈલ ઉદ્યોગ ઠપ્પ થવાનો ભય!</title>
+      <link>https://www.gujaratsamachar.com/news/surat/workers-gaon-chalo-movement-ignites-in-surat-union-textile-minister-rushes-to-surat-as-controversy-rages-fears-textile-industry-will-come-to-a-standstill-22623555141</link>
+      <guid isPermaLink="false">103ddc74c3007102efe7595f24a75bc11ee9dec1</guid>
+      <category>surat</category>
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
