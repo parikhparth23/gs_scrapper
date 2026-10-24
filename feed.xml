@@ -8,35 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>gu</language>
-    <lastBuildDate>Sat, 24 Oct 2026 07:08:26 +0000</lastBuildDate>
-    <item>
-      <title>ભારતના વિદેશી મુદ્રા ભંડારમાંથી સતત 6 અઠવાડિયામાં 65 બિલિયન ડૉલરનું ધોવાણ</title>
-      <link>https://www.gujaratsamachar.com/news/business/indias-foreign-exchange-reserves-lose-dollar65-billion-in-6-consecutive-weeks-61370858998</link>
-      <guid isPermaLink="false">06748a8fbf08fe8b7ec524a8931df36a915f8f89</guid>
-      <category>business</category>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>સંબંધોમાં સંવાદનો અભાવ અને વર્ચ્યુઅલ આકર્ષણથી ઘરોમાં કંકાસ: અમદાવાદમાં 3 વર્ષમાં ઘરેલુ હિંસાના 12,721 કોલ, 1,365 મહિલાઓ બેઘર બની</title>
-      <link>https://www.gujaratsamachar.com/news/ahmedabad/ahmedabad-domestic-violence-12721-calls-1365-women-homeless-3-years-96812996714</link>
-      <guid isPermaLink="false">f40213c50fc461fdaf38d9357070c04328692a25</guid>
-      <category>ahmedabad</category>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>સૌરાષ્ટ્રમાં દુષ્કાળના દારુણ દૃશ્યો, રાજકોટ બળદ આશ્રમે ભીની આંખે ખેડૂતો 6000 બળદો મૂકી ગયા</title>
-      <link>https://www.gujaratsamachar.com/news/rajkot/Fodder-Crisis-in-Saurashtra-Farmers-Leave-6000-Oxen-at-Rajkot-Ashram-91250934931</link>
-      <guid isPermaLink="false">0bf0410cd13ee94a69f89984bbc50ac5264b8e02</guid>
-      <category>rajkot</category>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>સુરતીઓનો નવો સ્વાદ-ટ્રેન્ડ: ‘ચંદી પડવો’ પહેલા બજારમાં આવી ‘Gen-Z’ અને ‘જંતર-મંતર’ ઘારી</title>
-      <link>https://www.gujaratsamachar.com/news/surat/surat-chandi-padvo-gen-z-jantar-mantar-ghari-new-food-trend-89724873885</link>
-      <guid isPermaLink="false">3eeb886fdf6d7e6cefcba1813b99885c76f71e67</guid>
-      <category>surat</category>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 24 Oct 2026 07:55:51 +0000</lastBuildDate>
     <item>
       <title>IPL 2027 અગાઉ મુંબઈ ઈન્ડિયન્સનો મોટો નિર્ણય, પોલાર્ડને બનાવ્યા હેડ કોચ</title>
       <link>https://www.gujaratsamachar.com/news/sports/mumbai-indians-big-decision-before-ipl-2027-pollard-appointed-as-head-coach-18658194176</link>
@@ -66,10 +38,38 @@
       <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>સુરત નવી સિવિલ હોસ્પિટલમાં શોર્ટ સર્કિટથી આગ, ફાયર વિભાગની ટીમ ઘટનાસ્થળે, કોઈ જાનહાનિ નહીં</title>
+      <link>https://www.gujaratsamachar.com/news/surat/fire-incident-at-civil-hospital-in-surat-patients-stampede-in-old-meicu-department-39491074512</link>
+      <guid isPermaLink="false">474f7d72ed8cec445e79f5b83d3a1e1e745a2bb0</guid>
+      <category>surat</category>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>રાજસ્થાનના ચુરુમાં કાર-ટ્રક વચ્ચે અકસ્માત, એક જ પરિવારના 5 સહિત ડ્રાઈવરનું મોત, બાળકીની હાલત ગંભીર</title>
+      <link>https://www.gujaratsamachar.com/news/national/between-car-and-truck-in-churu-rajasthan-driver-including-5-of-the-same-family-dies-condition-of-girl-critical-66254286863</link>
+      <guid isPermaLink="false">02cf5e652af1c385498d4704fca6413d2ffc0be0</guid>
+      <category>national</category>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>VIDEO: અમદાવાદમાં તહેવાર ટાણે ફૂલ બજારમાં મંદી! ખેડૂતો-વેપારીઓ ફૂલો કચરાની ગાડીમાં ફેંકવા મજબૂર</title>
+      <link>https://www.gujaratsamachar.com/news/ahmedabad/jamalpur-flower-market-slump-farmers-traders-throw-flowers-waste-64972569485</link>
+      <guid isPermaLink="false">81722603027ee7639202f7c30b1306b1ef2ffe31</guid>
+      <category>ahmedabad</category>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>બ્રિટનમાં અચાનક શું થયું? સરકારે લોકોને કહ્યું- 3 દિવસનું રેશન અને જરૂરી વસ્તુઓ જમા કરો</title>
       <link>https://www.gujaratsamachar.com/news/international/what-suddenly-happened-in-britain-the-government-told-people-deposit-3-days-ration-and-essential-items-71504993754</link>
       <guid isPermaLink="false">bb2d6536d9bfb7dd15564108344e6d688655fd39</guid>
       <category>international</category>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>IND vs NZ 2nd T20I: આખરે વૈભવ સૂર્યવંશીની એન્ટ્રી, પરંતુ ઓપનિંગ નહીં કરે! ટીમમાં 2 મોટા ફેરફાર</title>
+      <link>https://www.gujaratsamachar.com/news/sports/ind-vs-nz-2nd-t20i-vaibhav-suryavanshi-playing-11-toss-updates-21401200329</link>
+      <guid isPermaLink="false">4a5d31093cda8d39e67c2e3756585be9077bea0d</guid>
+      <category>sports</category>
       <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -87,10 +87,10 @@
       <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>સુરતમાં સિવિલ હોસ્પિટલમાં આગની ઘટના, જૂના MEICU વિભાગમાં દર્દીઓમાં નાસભાગ મચી!</title>
-      <link>https://www.gujaratsamachar.com/news/surat/fire-incident-at-civil-hospital-in-surat-patients-stampede-in-old-meicu-department-39491074512</link>
-      <guid isPermaLink="false">474f7d72ed8cec445e79f5b83d3a1e1e745a2bb0</guid>
-      <category>surat</category>
+      <title>દુનિયાના અનેક દેશોમાં ઈન્ટરનેટ બ્લેકઆઉટ થશે? અમેરિકા-ઈઝરાયલના સંભવિત હુમલા સામે ઈરાનનો ચોંકાવનારો પ્લાન</title>
+      <link>https://www.gujaratsamachar.com/news/international/will-there-be-an-internet-blackout-in-many-countries-of-the-world-irans-shocking-plan-against-a-possible-attack-by-america-israel-49930543818</link>
+      <guid isPermaLink="false">629b37fe74f0d384ea7d5ac4aa74267e4526b439</guid>
+      <category>international</category>
       <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
