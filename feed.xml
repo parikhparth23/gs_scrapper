@@ -8,56 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>gu</language>
-    <lastBuildDate>Thu, 05 Nov 2026 03:41:18 +0000</lastBuildDate>
-    <item>
-      <title>ઈરાન યુદ્ધના લીધે જ રિપબ્લિકન પાર્ટી મિડટર્મ ચૂંટણી હારી, US ઉપ પ્રમુખ જેડી વેન્સે ગણાવ્યા 4 કારણો</title>
-      <link>https://www.gujaratsamachar.com/news/international/jd-vance-blames-iran-war-for-republican-midterm-election-loss-88911502712</link>
-      <guid isPermaLink="false">8e23341e931263dd6157748fa56098ec9056d965</guid>
-      <category>international</category>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ઇઝરાયેલના પ્રમુખે નેતન્યાહુની હારના સત્તાવાર પરિણામ સ્વીકાર્યા</title>
-      <link>https://www.gujaratsamachar.com/news/international/israeli-president-accepts-official-results-of-netanyahus-defeat-14683908785</link>
-      <guid isPermaLink="false">7cc38933d02fda6de76b2d3046e0bbaf16dbdd6f</guid>
-      <category>international</category>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>અમેરિકાની મિડટર્મ ચૂંટણીમાં ભારતીયોએ દબદબો જાળવ્યો, હાઉસમાં પાંચનો વિજય</title>
-      <link>https://www.gujaratsamachar.com/news/international/indians-maintain-dominance-in-us-midterm-elections-five-win-in-house-14819120447</link>
-      <guid isPermaLink="false">ae26408971c3f070a80d34e5ef523ebd8dad0aff</guid>
-      <category>international</category>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>સોનાના ભાવમાં રૂ.4000નો તો ચાંદીની કિંમતમાં રૂ.10,000ની ઉથલ-પાથલ, જાણો લેટેસ્ટ ભાવ</title>
-      <link>https://www.gujaratsamachar.com/news/business/gold-price-fluctuates-by-rs-4000-and-silver-price-fluctuates-by-rs-10000-know-the-latest-prices-23063537949</link>
-      <guid isPermaLink="false">9ad5f695b5f2f4e06e91932aaf493619c0a7e102</guid>
-      <category>business</category>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>યુક્રેનમાં રશિયાનો ભયાનક હુમલો, રાહત સામગ્રી લેવા સ્કૂલે એકઠાં થયેલા લોકો પર એરસ્ટ્રાઈક, 40ના મોત</title>
-      <link>https://www.gujaratsamachar.com/news/international/russias-horrific-attack-in-ukraine-airstrike-on-people-gathered-at-a-school-to-receive-relief-materials-40-dead-52758614462</link>
-      <guid isPermaLink="false">2adcb4019e2d9d1e0068a9c72590eff122ad4408</guid>
-      <category>international</category>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>અમદાવાદના રસ્તા પર ફરતા 15 વર્ષ જૂના વાહનો સીઝ કરો, પ્રદૂષણને કાબૂમાં લેવા AMC કમિશનરનો આદેશ</title>
-      <link>https://www.gujaratsamachar.com/news/ahmedabad/seize-15-year-old-vehicles-plying-on-ahmedabad-roads-amc-commissioner-orders-to-control-pollution-94840509971</link>
-      <guid isPermaLink="false">adac09d1688e56c3d32a9667b1c93a71f6c846c7</guid>
-      <category>ahmedabad</category>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>દિવાળી પૂર્વે જ મોંઘવારીનો બોમ્બ ફૂટ્યો; દૂધ-દાળ, રાંધણ ગેસ, પેટ્રોલ બધું જ મોંઘું, જનતા લાચાર</title>
-      <link>https://www.gujaratsamachar.com/news/ahmedabad/the-inflation-bomb-exploded-just-before-diwali-milk-pulses-cooking-gas-petrol-everything-is-expensive-the-public-is-helpless-31081602811</link>
-      <guid isPermaLink="false">cd5f025743bbcbb326f16d38d590348801503153</guid>
-      <category>ahmedabad</category>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 05 Nov 2026 04:45:20 +0000</lastBuildDate>
     <item>
       <title>CNG 100 ને પાર, અદાણીએ 14 દિવસમાં બીજી વખત CNGના ભાવ વધાર્યા, મોંઘવારીનો બોમ્બ ફૂટ્યો</title>
       <link>https://www.gujaratsamachar.com/news/ahmedabad/cng-crosses-100-adani-increases-cng-prices-for-the-second-time-in-14-days-inflation-bomb-explodes-98215608066</link>
@@ -91,6 +42,55 @@
       <link>https://www.gujaratsamachar.com/news/ahmedabad/new-demolition-policy-in-ahmedabad-now-construction-can-be-demolished-only-on-the-day-7-days-in-advance-with-photo-details-will-have-to-be-reported-60145256836</link>
       <guid isPermaLink="false">ff2dcdf6cbaa2380fb8e46cb5cbf46e158782d0a</guid>
       <category>ahmedabad</category>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>અમદાવાદના SG હાઈવે પર દારૂ ભરેલી કાર ઝડપાઈ, શામળાજીથી ગુલબાઈ ટેકરા આપવાની હતી ડિલિવરી</title>
+      <link>https://www.gujaratsamachar.com/news/ahmedabad/a-car-loaded-with-liquor-was-caught-on-ahmedabads-sg-highway-the-delivery-was-to-be-made-from-shamlaji-to-gulbai-tekra-77446676467</link>
+      <guid isPermaLink="false">633e234706cdfe6c315f85db47b6525e1926fd4b</guid>
+      <category>ahmedabad</category>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>દીકરી બનીને દિવાળીએ પિયર પધારે છે માતાજી, દોઢસો વરસથી અખંડ શ્રદ્ધાની અનોખી પરંપરા</title>
+      <link>https://www.gujaratsamachar.com/news/ahmedabad/mother-comes-to-her-husband-on-diwali-disguised-as-a-daughter-a-unique-tradition-of-unwavering-faith-for-over-150-years-65884371209</link>
+      <guid isPermaLink="false">f345937986fd03cc771eca8b096d867015057ebc</guid>
+      <category>ahmedabad</category>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>'ટેક્સના પૈસા બીજાના બાળકો પર બોમ્બ ઝીંકવા માટે નથી..', જીત બાદ અમેરિકાને અબ્દુલનો મેસેજ</title>
+      <link>https://www.gujaratsamachar.com/news/international/tax-money-is-not-for-dropping-bombs-on-other-peoples-children-abduls-message-to-america-after-victory-42166511710</link>
+      <guid isPermaLink="false">de2f93364bc38b6f923d66c964976ce3163187e0</guid>
+      <category>international</category>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ચૂંટણીમાં પરાજય, ટ્રમ્પ-વેન્સ વચ્ચે તિરાડ, 5 પોઈન્ટમાં સમજો અમેરિકાનું રાજકારણ કેવી રીતે હચમચ્યું</title>
+      <link>https://www.gujaratsamachar.com/news/international/US-Midterm-Election-Results-Democrats-Win-Congress-Differences-Surface-Between-Trump-and-Vance-49375818198</link>
+      <guid isPermaLink="false">3761cf722cbb1931effcae36d4f96f33668c73ff</guid>
+      <category>international</category>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>હોર્મુઝ સ્ટ્રેટની સુરક્ષાની જવાબદારી દ.કોરિયાએ ઉપાડી? પેટ્રોલિંગ વિમાન અને બૉમ્બ સ્કવૉડ તહેનાત કરશે</title>
+      <link>https://www.gujaratsamachar.com/news/international/South-Korea-to-Deploy-Patrol-Aircraft-and-EOD-Team-to-Secure-Strait-of-Hormuz-10587713702</link>
+      <guid isPermaLink="false">c0c1a444ab3f43dde53b324c65b9a2f1cde805c4</guid>
+      <category>international</category>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ટ્રમ્પની હાર અને ક્રૂડ ઓઈલમાં કડાકા બાદ શેરબજારમાં ધૂમ તેજી, સેન્સેક્સ 1600 તો નિફ્ટી 400થી વધુ પોઇન્ટ ઉછળ્યો</title>
+      <link>https://www.gujaratsamachar.com/news/business/after-trumps-defeat-and-the-crash-in-crude-oil-the-stock-market-boomed-sensex-rose-by-1600-and-nifty-by-more-than-400-points-59270205152</link>
+      <guid isPermaLink="false">38e27a9f364e2bc2901d61fe95a68abd3ec6fb5b</guid>
+      <category>business</category>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>વાયદા બજારમાં ભડકો, બે જ દિવસમાં સોનું ₹6,932 અને ચાંદી ₹13,346 મોંઘી થઈ, જાણો લેટેસ્ટ રેટ</title>
+      <link>https://www.gujaratsamachar.com/news/business/futures-market-booms-gold-becomes-expensive-by-indian-rupee6932-and-silver-by-indian-rupee13346-in-two-days-know-the-latest-rates-40648024437</link>
+      <guid isPermaLink="false">429b0d347e59f2d053163e75f855f70a332b58b3</guid>
+      <category>business</category>
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
