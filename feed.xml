@@ -8,28 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>gu</language>
-    <lastBuildDate>Tue, 10 Nov 2026 06:46:16 +0000</lastBuildDate>
-    <item>
-      <title>ગુજરાતમાં ઈ-કોમર્સની ફરિયાદો 33% વધી, ભ્રામક જાહેરાતોને કારણે લોકો વધુ ભોગ બન્યાં</title>
-      <link>https://www.gujaratsamachar.com/news/ahmedabad/e-commerce-complaints-in-gujarat-increase-by-33percent-people-become-more-victims-due-to-misleading-advertisements-65624571124</link>
-      <guid isPermaLink="false">6247c407b2425100a9ef135cc4eac0971bc08cf6</guid>
-      <category>ahmedabad</category>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>'રોજ 10 લાખ બેરલ ઓઈલ લઈ જાઓ...', નાનકડા દેશની ભારતને મોટી ઓફર, ભાગીદારી માટે પણ તૈયાર!</title>
-      <link>https://www.gujaratsamachar.com/news/international/take-1-million-barrels-of-oil-daily-a-big-offer-to-a-small-country-india-ready-for-partnership-too-62414268646</link>
-      <guid isPermaLink="false">69e06f6dde6bfcb2ccd975521353b069b80ba46e</guid>
-      <category>international</category>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ઓર્ગેનિક ખેતીમાં ગુજરાત અન્ય રાજ્યો કરતાં પાછળ, રાજ્યપાલ પણ પ્રાકૃતિક ખેતીના બહાને RSS નો કરે છે પ્રચાર!</title>
-      <link>https://www.gujaratsamachar.com/news/gandhinagar/gujarat-lags-behind-other-states-in-organic-farming-even-the-governor-promotes-rss-on-the-pretext-of-natural-farming-13077899610</link>
-      <guid isPermaLink="false">5b933cddeadff13e5b79878cfea42742a42b161a</guid>
-      <category>gandhinagar</category>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 10 Nov 2026 07:59:19 +0000</lastBuildDate>
     <item>
       <title>'એ વ્યક્તિ કંઇ પણ કરી શકે છે...', અજિત પવારનું પ્લેન ક્રેશ કરાવવાનો આરોપ સાંસદ પર લાગ્યો!</title>
       <link>https://www.gujaratsamachar.com/news/national/that-person-can-do-anything-mp-accused-of-crashing-ajit-pawars-plane-93731040115</link>
@@ -87,10 +66,31 @@
       <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>4 મહિના સુધી એક્ટિવ રહેશે શનિ દેવ, 6 રાશિના જાતકોને થશે લાભ જ લાભ!</title>
+      <link>https://www.gujaratsamachar.com/news/astro/shani-dev-will-be-active-for-4-months-people-of-6-zodiac-signs-will-benefit-only-37767417065</link>
+      <guid isPermaLink="false">4a8784acac87bbf9a85563cc216cc114e455e098</guid>
+      <category>astro</category>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>'યુદ્ધમાં જે નુકસાન થયું એની ભરપાઈ ઈઝરાયલ કરે, મેં એને ઈરાનથી બચાવ્યું...', ટ્રમ્પે એહસાન જતાવ્યું</title>
       <link>https://www.gujaratsamachar.com/news/international/israel-should-compensate-for-the-damage-it-suffered-in-the-war-i-saved-it-from-iran-trump-expressed-gratitude-61592286808</link>
       <guid isPermaLink="false">05d9d45e2092f488d0979570dbfb89b8b36c455b</guid>
       <category>international</category>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>IND vs NZ 3rd ODI: ટોસ જીતીને ગિલે બોલિંગ લીધી ને વરસાદ ત્રાટક્યો, એક પણ બોલ ફેંકાયા વગર મેચ રદ</title>
+      <link>https://www.gujaratsamachar.com/news/sports/ind-vs-nz-3rd-odi-hamilton-abandoned-rain-takeaways-series-update-96756355963</link>
+      <guid isPermaLink="false">522e82dad855442d4700891fa6bde5a40a730060</guid>
+      <category>sports</category>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>IPLમાં મેગા ટ્રેડ: અર્શદીપ સિંહ મુંબઈ ઈન્ડિયન્સમાં, હાર્દિક પંડ્યા પંજાબ કિંગ્સમાં જશે!</title>
+      <link>https://www.gujaratsamachar.com/news/sports/arshdeep-singh-traded-to-mumbai-indians-hardik-pandya-punjab-kings-ipl-2027-swap-deal-14352306106</link>
+      <guid isPermaLink="false">5cb0e39a3e9a8c2387a6f2d1e423cd4003f57903</guid>
+      <category>sports</category>
       <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
