@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>gu</language>
-    <lastBuildDate>Tue, 17 Nov 2026 10:29:40 +0000</lastBuildDate>
-    <item>
-      <title>‘હવે તે માત્ર મિત્ર છે...’ લવ લાઈફનો કિસ્સો શેર કર્યા બાદ ગર્લફ્રેન્ડના સવાલ મુદ્દે રાહુલ ગાંધીનો જવાબ</title>
-      <link>https://www.gujaratsamachar.com/news/national/Rahul-Gandhi-Shares-Personal-Anecdotes-and-Sonia-Gandhis-Cancer-Battle-at-Book-Launch-33860934569</link>
-      <guid isPermaLink="false">0586725ff432d8ad7612afdee44965c997187579</guid>
-      <category>national</category>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ગુજરાતમાં 'કોળી CM'ની માંગથી રાજકીય ભૂકંપ: પબુભા માણેકના નિવેદન પર પાટીદાર નેતાઓ લાલઘૂમ, ભાજપની ચિંતા વધી</title>
-      <link>https://www.gujaratsamachar.com/news/devbhumi-dwarka/gujarat-politics-koli-cm-demand-bjp-mla-pabubha-manek-patidar-leaders-reaction-32900198120</link>
-      <guid isPermaLink="false">fb70f9a62d606cb332487c3002ba03fdeed4b481</guid>
-      <category>devbhumi-dwarka</category>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Nov 2026 11:21:20 +0000</lastBuildDate>
     <item>
       <title>સસ્પેન્સનો અંત: આ સુપરસ્ટાર બન્યો નવો 'James Bond', 007ના અંદાજમાં પહેલો લૂક જોઈ ફેન્સ ઝૂમી ઉઠ્યા</title>
       <link>https://www.gujaratsamachar.com/news/entertainment/end-of-suspense-this-superstar-becomes-the-new-james-bond-fans-are-excited-after-seeing-the-first-look-in-the-style-of-007-89401587198</link>
@@ -73,6 +59,13 @@
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>'પાકિસ્તાનના મંત્રીને ભારત સરકાર બિરિયાની ખવડાવશે!' SCO સમિટના આમંત્રણ મુદ્દે કોંગ્રેસના ભાજપ પર પ્રહાર</title>
+      <link>https://www.gujaratsamachar.com/news/national/indian-government-will-feed-biryani-to-pakistani-minister-congress-attacks-bjp-over-sco-summit-invitation-32460695647</link>
+      <guid isPermaLink="false">912b3d47f47250604be1e7d10fc7f8e268476132</guid>
+      <category>national</category>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>એક યુગનો અંત! MS ધોનીએ IPLમાંથી લીધી નિવૃત્તિ, હવે CSKમાં આ નવી ભૂમિકામાં જોવા મળશે 'થાલા'</title>
       <link>https://www.gujaratsamachar.com/news/sports/ms-dhoni-retires-from-ipl-becomes-chennai-super-kings-mentor-ipl-2027-58537077226</link>
       <guid isPermaLink="false">1aad6d95fb5aedd2dd90de7a7a340e795f50931e</guid>
@@ -80,10 +73,17 @@
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>'પાકિસ્તાનના મંત્રીને ભારત સરકાર બિરયાની ખવડાવશે!' SCO સમિટના આમંત્રણ મુદ્દે કોંગ્રેસના ભાજપ પર પ્રહાર</title>
-      <link>https://www.gujaratsamachar.com/news/national/indian-government-will-feed-biryani-to-pakistani-minister-congress-attacks-bjp-over-sco-summit-invitation-32460695647</link>
-      <guid isPermaLink="false">912b3d47f47250604be1e7d10fc7f8e268476132</guid>
-      <category>national</category>
+      <title>બાંગ્લાદેશમાં ફરી ભડકી હિંસા: ઢાકા એરપોર્ટ નજીક બે બોમ્બ વિસ્ફોટ થતા 3 રાહદારીઓ ઘાયલ</title>
+      <link>https://www.gujaratsamachar.com/news/international/violence-flares-up-again-in-bangladesh-two-bombs-explode-near-dhaka-airport-injuring-3-pedestrians-28793512453</link>
+      <guid isPermaLink="false">7e1a9b042854c62945d8f2542f5f46fee318d00e</guid>
+      <category>international</category>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>IPL 2027 Retention LIVE : ધોનીની નિવૃત્તિ, શમી રાજસ્થાનમાં સામેલ, થોડી જ વારમાં જાહેર થશે સંપૂર્ણ યાદી</title>
+      <link>https://www.gujaratsamachar.com/news/sports/ipl-2027-retention-live-dhonis-retirement-shami-joins-rajasthan-full-list-to-be-announced-soon-86421676515</link>
+      <guid isPermaLink="false">35561925562e1911d516691a74ca23e9c510fb0c</guid>
+      <category>sports</category>
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
