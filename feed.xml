@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>gu</language>
-    <lastBuildDate>Tue, 24 Nov 2026 15:28:14 +0000</lastBuildDate>
-    <item>
-      <title>શું છે 'કાર્તિગઈ દીપમ' વિવાદ? તમિલનાડુમાં થલપતિ સરકારે 5,618 પોલીસકર્મી ખડક્યા, 750 નેતા નજરકેદ!</title>
-      <link>https://www.gujaratsamachar.com/news/national/what-is-the-kartigai-deepam-controversy-thalapathy-government-in-tamil-nadu-has-suspended-5618-policemen-750-leaders-under-house-arrest-85324726249</link>
-      <guid isPermaLink="false">0668881949ea50952ece52e514e24ce52d7e24bd</guid>
-      <category>national</category>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>કચ્છ: હાજીપીર રોડ પર ટ્રેક્ટર અને ટ્રક વચ્ચે ગમખ્વાર અકસ્માત, 3 શ્રમિકોના ઘટનાસ્થળે કરુણ મોત, 2ને ગંભીર ઈજા</title>
-      <link>https://www.gujaratsamachar.com/news/kutch/tragic-between-tractor-and-truck-on-hajipir-road-near-dhora-village-95327008609</link>
-      <guid isPermaLink="false">e33ac5f7197287a52c26903e258bd43d37bf1c37</guid>
-      <category>kutch</category>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Nov 2026 16:36:02 +0000</lastBuildDate>
     <item>
       <title>પશ્ચિમ બંગાળનું નામ બદલાશે! કેબિનેટની બેઠકમાં પ્રસ્તાવ મંજૂર, હવે 9 ડિસેમ્બરે વિધાનસભામાં રજૂ થશે</title>
       <link>https://www.gujaratsamachar.com/news/national/west-bengals-name-will-be-changed-proposal-approved-in-cabinet-meeting-will-now-be-presented-in-the-assembly-on-december-9-76649103168</link>
@@ -73,13 +59,6 @@
       <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>અમદાવાદ: 25 નવેમ્બરે રિક્ષા-ટેક્સી ચાલકોનું વિરોધ પ્રદર્શન, પડતર પ્રશ્નો મુદ્દે RTO કચેરીએ 'રોજગાર બચાવો આંદોલન'</title>
-      <link>https://www.gujaratsamachar.com/news/ahmedabad/auto-rickshaw-and-taxi-drivers-to-stage-rojgar-bachavo-andolan-protest-at-rto-office-on-25-november-63211486517</link>
-      <guid isPermaLink="false">41a7b5d50e96f7ead359691dbe73b2b05edc4110</guid>
-      <category>ahmedabad</category>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>રાઈઝિંગ સ્ટાર્સ એશિયા કપ: સેમિફાઈનલની 4 ટીમ નક્કી, 4 ટીમો બહાર, ફાઈનલમાં ભારત-પાકિસ્તાન વચ્ચે મુકાબલાની શક્યતા</title>
       <link>https://www.gujaratsamachar.com/news/sports/rising-stars-asia-cup-4-teams-for-semi-finals-decided-4-teams-eliminated-possibility-of-india-pakistan-clash-in-the-final-12734017482</link>
       <guid isPermaLink="false">67dd4aa7b55974c25397d1bc6ca8a91ed0279c9e</guid>
@@ -91,6 +70,27 @@
       <link>https://www.gujaratsamachar.com/news/sports/vaibhav-suryavanshi-creates-history-scores-fastest-century-in-list-a-cricket-in-28-balls-78924747894</link>
       <guid isPermaLink="false">bbacd5108e0987b2e4b4c7bf710331b7e39abe56</guid>
       <category>sports</category>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ટ્રમ્પ ફરી લગાવશે ટેરિફ?, ભારત જ નહીં, ચીન-EU-જાપાન પણ નિશાના પર</title>
+      <link>https://www.gujaratsamachar.com/news/international/will-trump-impose-tariffs-again-not-only-india-china-eu-japan-are-also-on-the-target-20275354456</link>
+      <guid isPermaLink="false">d72f51be15fbab98896c97862cfc9eb2cb7c09fb</guid>
+      <category>international</category>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>અમદાવાદ: 25 નવેમ્બરે રિક્ષા-ટેક્સી ચાલકોનું વિરોધ પ્રદર્શન, પડતર પ્રશ્નો મુદ્દે RTO કચેરીએ 'રોજગાર બચાવો આંદોલન'</title>
+      <link>https://www.gujaratsamachar.com/news/ahmedabad/auto-rickshaw-and-taxi-drivers-to-stage-rojgar-bachavo-andolan-protest-at-rto-office-on-25-november-63211486517</link>
+      <guid isPermaLink="false">41a7b5d50e96f7ead359691dbe73b2b05edc4110</guid>
+      <category>ahmedabad</category>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MCX : સોના-ચાંદીના ભાવમાં ફરી મોટો કડાકો: ચાંદી 8,680 રૂપિયા તૂટી, સોનું 3,311 રૂપિયા સસ્તું થયું</title>
+      <link>https://www.gujaratsamachar.com/news/business/mcx-another-big-fall-in-gold-and-silver-prices-silver-falls-by-rs-8680-gold-becomes-cheaper-by-rs-3311-23433069683</link>
+      <guid isPermaLink="false">f1a85401d6109caf8d6c8455fa87e71b30ba1b09</guid>
+      <category>business</category>
       <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
