@@ -8,28 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>gu</language>
-    <lastBuildDate>Tue, 24 Nov 2026 14:10:27 +0000</lastBuildDate>
-    <item>
-      <title>બાબા રામદેવે 'પાખંડી' કહેતા બાબા બાગેશ્વરનો જવાબ, '4 દિવસ પહેલા વખાણ કર્યા હતા, આજે નિંદા કરી દીધી'</title>
-      <link>https://www.gujaratsamachar.com/news/national/Dhirendra-Shastri-Responds-to-Baba-Ramdevs-Hypocrite-Remark-Calls-Criticism-a-Blessing-67375302281</link>
-      <guid isPermaLink="false">e777ca5d3ddf4d000005d3fbbcd7ad33d0b1ca51</guid>
-      <category>national</category>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>સોનાના ભાવ ગગડતાં ગોલ્ડ લોન કંપનીઓ પર મોટો ખતરો: RBIએ NBFC કંપનીઓને આપી કડક ચેતવણી!</title>
-      <link>https://www.gujaratsamachar.com/news/business/falling-gold-prices-pose-a-big-threat-to-gold-loan-companies-rbi-issues-strict-warning-to-nbfc-companies-84934420340</link>
-      <guid isPermaLink="false">999bcf75eb4371ae5c0724c7a939bbaaf54b6f3d</guid>
-      <category>business</category>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘ફિલ્મવાળાએ ઊભા કરેલા કાલ્પનિક દેવતાઓ છોડી સનાતન તરફ વળો...’ શંકરાચાર્ય સદાનંદ સરસ્વતીનું નિવેદન</title>
-      <link>https://www.gujaratsamachar.com/news/national/leave-the-imaginary-gods-created-by-filmmakers-and-turn-towards-sanatan-statement-by-shankaracharya-sadanand-saraswati-28475069548</link>
-      <guid isPermaLink="false">1f13c30fc35e5fa7cd72c27ba43abeebafeb1ab6</guid>
-      <category>national</category>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Nov 2026 15:28:14 +0000</lastBuildDate>
     <item>
       <title>શું છે 'કાર્તિગઈ દીપમ' વિવાદ? તમિલનાડુમાં થલપતિ સરકારે 5,618 પોલીસકર્મી ખડક્યા, 750 નેતા નજરકેદ!</title>
       <link>https://www.gujaratsamachar.com/news/national/what-is-the-kartigai-deepam-controversy-thalapathy-government-in-tamil-nadu-has-suspended-5618-policemen-750-leaders-under-house-arrest-85324726249</link>
@@ -84,6 +63,27 @@
       <link>https://www.gujaratsamachar.com/news/ahmedabad/gujarat-congress-launches-online-campaign-against-sd-pay-and-apna-pay-fraud-releases-qr-code-77562897784</link>
       <guid isPermaLink="false">8aa0d27eb5b660f557aafaaa16cc50d8cc27b29f</guid>
       <category>ahmedabad</category>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>અમેરિકા પર બે વાવાઝોડાનો ડબલ એટેક: 2 મોટા એરપોર્ટ ડૂબવાનું જોખમ; 10 રાજ્યોમાં તબાહીનું એલર્ટ</title>
+      <link>https://www.gujaratsamachar.com/news/international/double-attack-of-two-hurricanes-on-america-2-major-airports-at-risk-of-being-submerged-disaster-alert-in-10-states-59406262556</link>
+      <guid isPermaLink="false">7da72e0f86818d36fce3a7c81f79b4b096a3d851</guid>
+      <category>international</category>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>અમદાવાદ: 25 નવેમ્બરે રિક્ષા-ટેક્સી ચાલકોનું વિરોધ પ્રદર્શન, પડતર પ્રશ્નો મુદ્દે RTO કચેરીએ 'રોજગાર બચાવો આંદોલન'</title>
+      <link>https://www.gujaratsamachar.com/news/ahmedabad/auto-rickshaw-and-taxi-drivers-to-stage-rojgar-bachavo-andolan-protest-at-rto-office-on-25-november-63211486517</link>
+      <guid isPermaLink="false">41a7b5d50e96f7ead359691dbe73b2b05edc4110</guid>
+      <category>ahmedabad</category>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>રાઈઝિંગ સ્ટાર્સ એશિયા કપ: સેમિફાઈનલની 4 ટીમ નક્કી, 4 ટીમો બહાર, ફાઈનલમાં ભારત-પાકિસ્તાન વચ્ચે મુકાબલાની શક્યતા</title>
+      <link>https://www.gujaratsamachar.com/news/sports/rising-stars-asia-cup-4-teams-for-semi-finals-decided-4-teams-eliminated-possibility-of-india-pakistan-clash-in-the-final-12734017482</link>
+      <guid isPermaLink="false">67dd4aa7b55974c25397d1bc6ca8a91ed0279c9e</guid>
+      <category>sports</category>
       <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
