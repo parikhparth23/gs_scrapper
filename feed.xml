@@ -8,75 +8,54 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>gu</language>
-    <lastBuildDate>Sat, 28 Nov 2026 05:47:05 +0000</lastBuildDate>
-    <item>
-      <title>PM મોદીના માતા હીરાબાના નામે જરૂરતમંદ વિદ્યાર્થીઓને અપાયેલા શૈક્ષણિક સહાયના ચેક રિટર્ન</title>
-      <link>https://www.gujaratsamachar.com/news/bharuch/controversy-over-return-of-educational-assistance-cheques-given-to-needy-students-in-the-name-of-hiraba-burden-of-fees-and-penalties-on-parents-94794220817</link>
-      <guid isPermaLink="false">b728a8d25f31ae350df6d41d285f12fe78932fb3</guid>
-      <category>bharuch</category>
-      <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>રાજકોટના ટેક્નોલોજી નિષ્ણાતની ગગનચુંબી સિદ્ધિ, 400 કિ.મી. ઊંચે 28000 ની ઝડપે ફરતા સ્પેશ સ્ટેશનનો સીધો રેડિયો સંપર્ક</title>
-      <link>https://www.gujaratsamachar.com/news/rajkot/sky-high-achievement-of-rajkot-technology-expert-400-km-high-direct-radio-contact-with-space-station-rotating-at-a-speed-of-28000-62860811854</link>
-      <guid isPermaLink="false">d7592b1c559665f82a485cf3ca1bcd3d6bb955ef</guid>
-      <category>rajkot</category>
-      <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>સુરેન્દ્રનગરના ચોટીલા-રાજકોટ હાઈવે પર કારની ટક્કરે માતા-પુત્રીનાં મોત, ચાલક ફરાર</title>
-      <link>https://www.gujaratsamachar.com/news/surendranagar/mother-and-daughter-die-in-car-collision-on-chotila-rajkot-highway-in-surendranagar-driver-absconding-27741279904</link>
-      <guid isPermaLink="false">996ad890a43658f1cf66c34c15a152a434a32337</guid>
-      <category>surendranagar</category>
-      <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>નવું સીમાંકન અને મહિલા અનામત ગુજરાતનો રાજકીય નક્શો બદલશે, સત્તાના સમીકરણોમાં ઉથલપાથલ મચશે</title>
-      <link>https://www.gujaratsamachar.com/news/gandhinagar/new-delimitation-and-womens-reservation-will-change-the-political-map-of-gujarat-creating-turmoil-in-the-power-equations-20139928271</link>
-      <guid isPermaLink="false">aa93b880f415976feee929813d2cc794e14357b5</guid>
-      <category>gandhinagar</category>
-      <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>એક જ રાતમાં બે મર્ડરથી રાજકોટ ફરી રક્તરંજિત, યુવક અને વેપારીની છરી મારી હત્યા</title>
-      <link>https://www.gujaratsamachar.com/news/rajkot/rajkot-again-bloodied-by-two-murders-in-one-night-youth-and-businessman-stabbed-to-72807502188</link>
-      <guid isPermaLink="false">28bc7979ddc53172e08dac13c3b4e84e8ad54ff0</guid>
-      <category>rajkot</category>
-      <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>'કોરોના વેક્સિનની આડઅસરો હતી..', ઝકરબર્ગ બાદ દુનિયાના સૌથી ધનિક વ્યક્તિએ પણ કબૂલ્યું</title>
-      <link>https://www.gujaratsamachar.com/news/science-technology/Elon-Musk-Says-Yup-to-Mark-Zuckerberg-on-COVID-Vaccine-Side-Effects-and-US-Government-Pressure-99155266736</link>
-      <guid isPermaLink="false">b9896d129ffb8473b7d08dfebdef8d2b454cacac</guid>
-      <category>science-technology</category>
-      <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>યમદૂત બનેલા ડમ્પરોનો કચ્છમાં આતંક યથાવત, ઢોરો ગામ પાસે અકસ્માતમાં બે શિક્ષિકાના ઘટનાસ્થળે જ મોત</title>
-      <link>https://www.gujaratsamachar.com/news/kutch/dumpers-turned-into-demons-continue-to-terrorize-kutch-two-teachers-die-on-the-spot-in-an-near-dhoro-village-60719137356</link>
-      <guid isPermaLink="false">69fa3db13ef806d70e5b13677c20a9f58f3e761a</guid>
-      <category>kutch</category>
-      <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>26 ઓવર ફેંકી છતાં એક પણ વિકેટ નહીં, બુમરાહે બનાવ્યો શરમજનક રેકોર્ડ, આકાશદીપ છવાયો</title>
-      <link>https://www.gujaratsamachar.com/news/sports/despite-bowling-26-overs-not-a-single-wicket-bumrah-created-a-shameful-record-akashdeep-was-seen-in-the-audience-89215928563</link>
-      <guid isPermaLink="false">357185bea5913f892ab75d71813684b1855fe823</guid>
-      <category>sports</category>
-      <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>સોનું ક્યારેક પીળું તો ક્યારેક લાલ કેમ દેખાય છે? ઘરેણાં ખરીદતા પહેલા આ કારણો જરૂરથી જાણો</title>
-      <link>https://www.gujaratsamachar.com/news/utility/Why-Dubai-Gold-Looks-Brighter-Than-Indian-Gold-and-Why-22K-Jewelry-Color-Varies-28025250891</link>
-      <guid isPermaLink="false">03f1be76b7cb5338e4490bfcea610611f49bf04f</guid>
-      <category>utility</category>
-      <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 28 Nov 2026 06:52:00 +0000</lastBuildDate>
     <item>
       <title>બિલ પાસ થઈ જતાં સુપ્રીમ કોર્ટના જજ, CEC અને રાજ્યના ચૂંટણી કમિશનર કરશે નવું સીમાંકન</title>
       <link>https://www.gujaratsamachar.com/news/national/Delimitation-Bill-2026-Lok-Sabha-Seats-to-Increase-by-50-percent-Paving-Way-for-Womens-Reservation-95088440216</link>
       <guid isPermaLink="false">5f9ae31243ae86d88e94b8bb938b55e696fb4551</guid>
       <category>national</category>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>કેતુ-ચંદ્રનો ગ્રહણ યોગ, 30 નવેમ્બરથી આ 3 રાશિના જાતકોએ આફતોનો સામનો કરવો પડશે!</title>
+      <link>https://www.gujaratsamachar.com/news/astro/ketu-moon-eclipse-yoga-people-of-these-3-zodiac-signs-will-have-to-face-disasters-from-november-30-67873754768</link>
+      <guid isPermaLink="false">8e0139d5fa143f9b47bc81acc5b75f5bd3a62e47</guid>
+      <category>astro</category>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>વિદેશ જતાં મિત્રને અમદાવાદ એરપોર્ટ મૂકવા જતા કાર પલટી, એક યુવકનું મોત, કાર ચાલક ફરાર</title>
+      <link>https://www.gujaratsamachar.com/news/ahmedabad/a-car-overturned-while-dropping-a-friend-going-abroad-at-ahmedabad-airport-killing-a-young-man-the-driver-of-the-car-is-absconding-65225942176</link>
+      <guid isPermaLink="false">8d4079bd37b3920818da9e21a3b060f6c4a0cf66</guid>
+      <category>ahmedabad</category>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>સીમાંકન બિલ મુદ્દે રાહુલ ગાંધી મેદાને ઉતર્યા, I.N.D.I.A. ગઠબંધનના સહયોગીઓને આપી ચેતવણી!</title>
+      <link>https://www.gujaratsamachar.com/news/national/Congress-Announces-Opposition-to-Proposed-Delimitation-Bill-Ahead-of-Parliament-Session-76980119026</link>
+      <guid isPermaLink="false">492e11d1971df4b1279cee28ecba975418e304d1</guid>
+      <category>national</category>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ષટકોણ યોગ બનતા આજથી 3 રાશિના જાતકોનો ગોલ્ડન પીરિયડ, શુક્ર-ગુરુ કરશે ધનવર્ષા!</title>
+      <link>https://www.gujaratsamachar.com/news/astro/with-the-formation-of-hexagon-yoga-the-golden-period-for-the-people-of-3-zodiac-signs-will-begin-from-today-venus-jupiter-will-shower-them-with-good-fortune-27606303095</link>
+      <guid isPermaLink="false">3d52d275c6a5f3b5a596134aa1aa667a8e56b37e</guid>
+      <category>astro</category>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>IND vs NZ 2nd Test : ટીમ ઈન્ડિયાનો ધબડકો, 116 રનમાં 6 વિકેટો પડી, ન્યૂઝીલેન્ડ હજુ 240 રનથી આગળ</title>
+      <link>https://www.gujaratsamachar.com/news/sports/ind-vs-nz-2nd-test-team-indias-pace-6-wickets-fell-for-116-runs-new-zealand-still-ahead-by-240-runs-62781995934</link>
+      <guid isPermaLink="false">b63f0274b796c91c0437322b0666bc0ff0e7fc52</guid>
+      <category>sports</category>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>વડોદરાની ગોત્રી મેડિકલ કોલેજમાં ફટાકડા ફોડવાના મુદ્દે જૂનિયર વિદ્યાર્થીઓનું રેગિંગ, એક વિદ્યાર્થીએ આત્મહત્યાનો પ્રયાસ કર્યો</title>
+      <link>https://www.gujaratsamachar.com/news/baroda/junior-students-ragging-over-bursting-of-crackers-in-gotri-medical-college-one-student-attempts-20932551979</link>
+      <guid isPermaLink="false">ba3f877990ddfe8304b8e1d1d24ff145b609c157</guid>
+      <category>baroda</category>
       <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -87,10 +66,31 @@
       <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>સીમાંકન બિલ મુદ્દે રાહુલ ગાંધી મેદાને ઉતર્યા, I.N.D.I.A. ગઠબંધનના સહયોગીઓને આપી ચેતવણી!</title>
-      <link>https://www.gujaratsamachar.com/news/national/Congress-Announces-Opposition-to-Proposed-Delimitation-Bill-Ahead-of-Parliament-Session-76980119026</link>
-      <guid isPermaLink="false">492e11d1971df4b1279cee28ecba975418e304d1</guid>
-      <category>national</category>
+      <title>WWE સ્ટાર બ્રોનસન રીડનું 38 વર્ષની વયે નિધન, રિંગમાં ગંભીર રીતે ઈજાગ્રસ્ત થયો હતો</title>
+      <link>https://www.gujaratsamachar.com/news/sports/wwe-star-bronson-reed-dies-at-38-seriously-injured-in-ring-79014421120</link>
+      <guid isPermaLink="false">043d66598dc5509813bc8642afd9efc2099090de</guid>
+      <category>sports</category>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RBI પણ રેપો રેટમાં 0.50% બેસિસ પોઇન્ટનો વધારો ઝીંકે તેવી શક્યતા, EMI માં થશે મોટી ઉથલપાથલ</title>
+      <link>https://www.gujaratsamachar.com/news/business/RBI-MPC-Meeting-Dec-2026-Repo-Rate-May-Hike-to-6-Amid-Inflation-Impact-on-Home-Loan-EMI-40675242938</link>
+      <guid isPermaLink="false">75144a88b252aa4907fd2f05f3cab58fa5f6acbd</guid>
+      <category>business</category>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>બોટાદમાં બે સંતાનો સાથે માતાએ ટ્રેન નીચે પડતું મૂક્યું, માતા-પુત્રીના મોત, ગંભીર રીતે ઈજાગ્રસ્ત પુત્ર સારવાર હેઠળ</title>
+      <link>https://www.gujaratsamachar.com/news/botad/mother-and-two-children-fall-under-train-in-botad-mother-and-daughter-die-seriously-injured-son-under-treatment-91293992240</link>
+      <guid isPermaLink="false">7f34b42c0fe5a2803ba98979478dd849ef9e749b</guid>
+      <category>botad</category>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ભારે ઉથલપાથલ વચ્ચે અઠવાડિયામાં સોનું 2400 તો ચાંદી 2000 રૂપિયા મોંઘી થઈ, જાણો લેટેસ્ટ રેટ</title>
+      <link>https://www.gujaratsamachar.com/news/business/amidst-huge-upheaval-gold-became-expensive-by-rs-2300-and-silver-by-rs-2000-in-a-week-know-the-latest-rates-54533039357</link>
+      <guid isPermaLink="false">befb8eb574ccca851ea8ca3f58dfb1540a99700d</guid>
+      <category>business</category>
       <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
